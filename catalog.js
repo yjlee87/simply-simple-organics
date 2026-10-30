@@ -1,5 +1,5 @@
 /* 产品目录：读取 products.json，渲染列表、详情和图片放大。
-   详情页地址形如 #sku-001，可以直接把链接发给客人。 */
+   详情页地址形如 #HUY0001（产品 id 就是价目表货号），可以直接把链接发给客人。 */
 
 const $ = id => document.getElementById(id);
 const state = { store: {}, products: [], cat: '全部', q: '', sort: 'default', current: null, img: 0 };
@@ -44,7 +44,7 @@ function visible() {
   const q = state.q.trim().toLowerCase();
   let list = state.products.filter(p =>
     (state.cat === '全部' || p.category === state.cat) &&
-    (!q || [p.name, p.summary, p.description, p.category, p.id].join(' ').toLowerCase().includes(q)));
+    (!q || [p.name, p.summary, p.description, p.category, p.id, p.sku].join(' ').toLowerCase().includes(q)));
   if (state.sort === 'price-asc') list = [...list].sort((a, b) => a.price - b.price);
   if (state.sort === 'price-desc') list = [...list].sort((a, b) => b.price - a.price);
   return list;
@@ -61,6 +61,7 @@ function renderGrid() {
       <div class="ph">${p.images?.[0] ? `<img src="${esc(p.images[0])}" alt="${esc(p.name)}" loading="lazy">` : ''}${badge}</div>
       <div class="txt">
         <h3>${esc(p.name)}</h3>
+        <p class="sku">${esc(p.sku || p.id)}</p>
         <p class="sum">${esc(p.summary)}</p>
         <span class="price">${money(p.price)}${p.originalPrice ? `<s>${money(p.originalPrice)}</s>` : ''}</span>
       </div>
@@ -75,7 +76,7 @@ function openDetail(id, push = true) {
   state.current = p;
   state.img = 0;
 
-  $('dCat').textContent = [p.category, p.id].filter(Boolean).join(' · ');
+  $('dCat').textContent = [p.category, p.sku || p.id].filter(Boolean).join(' · ');
   $('dName').textContent = p.name;
   $('dPrice').textContent = p.soldOut ? `${money(p.price)}（售罄）` : money(p.price);
   $('dOrig').textContent = p.originalPrice ? money(p.originalPrice) : '';
@@ -87,7 +88,7 @@ function openDetail(id, push = true) {
   const wa = state.store.whatsapp;
   $('dAsk').hidden = !wa;
   if (wa) {
-    const msg = `你好，我想询问：${p.name}（${p.id}）${money(p.price)}\n${location.href.split('#')[0]}#${p.id}`;
+    const msg = `你好，我想询问：${p.name}（${p.sku || p.id}）${money(p.price)}\n${location.href.split('#')[0]}#${p.id}`;
     $('dAsk').href = `https://wa.me/${wa}?text=${encodeURIComponent(msg)}`;
   }
 

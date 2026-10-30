@@ -8,54 +8,3737 @@
   },
   "products": [
     {
-      "id": "sku-001",
+      "id": "HUY0001",
       "name": "浴巾",
       "category": "浴巾",
       "price": 95.8,
       "summary": "70×140cm全棉浴巾，棕色/白色可选。",
       "description": "素道全棉精织浴巾，采用无捻工艺，吸水性好，手感柔软蓬松，不染色不漂白。",
-      "specs": { "尺寸": "70 × 140 cm", "颜色": "棕色 / 白色", "材质": "纯棉", "货号": "HUY0001" },
-      "images": ["images/sku-001/main.jpg", "images/sku-001/detail-1.jpg", "images/sku-001/detail-2.jpg", "images/sku-001/detail-3.jpg", "images/sku-001/detail-4.jpg"]
+      "specs": {
+        "尺寸": "70 × 140 cm",
+        "颜色": "棕色 / 白色",
+        "材质": "纯棉",
+        "货号": "HUY0001"
+      },
+      "images": [
+        "images/HUY0001/main.jpg",
+        "images/HUY0001/detail-1.jpg",
+        "images/HUY0001/detail-2.jpg",
+        "images/HUY0001/detail-3.jpg",
+        "images/HUY0001/detail-4.jpg"
+      ],
+      "sku": "HUY0001"
     },
     {
-      "id": "sku-002",
+      "id": "HUY0003",
       "name": "双面浴巾",
       "category": "浴巾",
       "price": 95.8,
       "summary": "灰白双面条纹浴巾，无捻工艺更蓬松吸水。",
       "description": "采用无捻工艺纺织，优质棉料瞬间吸水，快速吸水易拧干，灰白条纹双面设计。",
-      "specs": { "尺寸": "70 × 140 cm", "颜色": "混色（灰白条）", "材质": "纯棉", "货号": "HUY0003" },
-      "images": ["images/sku-002/main.jpg", "images/sku-002/detail-1.jpg", "images/sku-002/detail-2.jpg", "images/sku-002/detail-3.jpg"]
+      "specs": {
+        "尺寸": "70 × 140 cm",
+        "颜色": "混色（灰白条）",
+        "材质": "纯棉",
+        "货号": "HUY0003"
+      },
+      "images": [
+        "images/HUY0003/main.jpg",
+        "images/HUY0003/detail-1.jpg",
+        "images/HUY0003/detail-2.jpg",
+        "images/HUY0003/detail-3.jpg"
+      ],
+      "sku": "HUY0003"
     },
     {
-      "id": "sku-003",
+      "id": "HUY0005",
       "name": "浴巾多用毯",
       "category": "浴巾",
       "price": 129.1,
       "summary": "120×150cm大尺寸浴巾，也可当空调毯、披肩毯。",
       "description": "凹凸泡泡纱结构，蓬松感强，吸水空间大。除了当浴巾，还可以披肩当空调毯使用。",
-      "specs": { "尺寸": "120 × 150 cm", "颜色": "白色 / 浅棕", "材质": "纯棉", "货号": "HUY0005" },
-      "images": ["images/sku-003/main.jpg", "images/sku-003/detail-1.jpg", "images/sku-003/detail-2.jpg", "images/sku-003/detail-3.jpg", "images/sku-003/detail-4.jpg"]
+      "specs": {
+        "尺寸": "120 × 150 cm",
+        "颜色": "白色 / 浅棕",
+        "材质": "纯棉",
+        "货号": "HUY0005"
+      },
+      "images": [
+        "images/HUY0005/main.jpg",
+        "images/HUY0005/detail-1.jpg",
+        "images/HUY0005/detail-2.jpg",
+        "images/HUY0005/detail-3.jpg",
+        "images/HUY0005/detail-4.jpg"
+      ],
+      "sku": "HUY0005"
     },
     {
-      "id": "sku-004",
+      "id": "HUF0002",
       "name": "小方巾",
       "category": "方巾",
       "price": 13.5,
       "summary": "25×25cm纯棉小方巾，白色/棕色可选。",
       "description": "天然有机彩棉制作，颜色为棉花本色，柔软亲肤，吸水性好，适合日常洗脸、擦手使用。",
-      "specs": { "尺寸": "25 × 25 cm", "颜色": "白色 / 棕色", "材质": "纯棉", "货号": "HUF0002" },
-      "images": ["images/sku-004/main.jpg", "images/sku-004/detail-1.jpg", "images/sku-004/detail-2.jpg", "images/sku-004/detail-3.jpg", "images/sku-004/detail-4.jpg"]
+      "specs": {
+        "尺寸": "25 × 25 cm",
+        "颜色": "白色 / 棕色",
+        "材质": "纯棉",
+        "货号": "HUF0002"
+      },
+      "images": [
+        "images/HUF0002/main.jpg",
+        "images/HUF0002/detail-1.jpg",
+        "images/HUF0002/detail-2.jpg",
+        "images/HUF0002/detail-3.jpg",
+        "images/HUF0002/detail-4.jpg"
+      ],
+      "sku": "HUF0002"
     },
     {
-      "id": "sku-005",
-      "name": "小方巾（提花 / 方格款）",
+      "id": "HUF0005",
+      "name": "提花小方巾",
       "category": "方巾",
       "price": 13.5,
-      "summary": "25×25cm小方巾，提花或方格两种花纹可选。",
-      "description": "在纯色小方巾基础上增加的花纹款式，提花、方格两种图案，尺寸规格相同。",
-      "specs": { "尺寸": "25 × 25 cm", "颜色": "混色 / 棕白", "材质": "纯棉", "货号": "HUF0005 / HUF0007" },
-      "images": ["images/sku-005/main.jpg", "images/sku-005/detail-1.jpg", "images/sku-005/detail-2.jpg", "images/sku-005/detail-3.jpg", "images/sku-005/detail-4.jpg"]
+      "summary": "25×25cm提花小方巾，混色。",
+      "description": "小方巾的花纹款，尺寸规格与纯色款相同，适合日常洗脸、擦手使用。",
+      "specs": {
+        "尺寸": "25 × 25 cm",
+        "颜色": "混色",
+        "材质": "纯棉",
+        "货号": "HUF0005"
+      },
+      "images": [
+        "images/HUF0005/main.jpg",
+        "images/HUF0005/detail-1.jpg",
+        "images/HUF0005/detail-2.jpg",
+        "images/HUF0005/detail-3.jpg",
+        "images/HUF0005/detail-4.jpg"
+      ],
+      "sku": "HUF0005"
+    },
+    {
+      "id": "HUF0007",
+      "name": "方格小方巾",
+      "category": "方巾",
+      "price": 13.5,
+      "summary": "25×25cm方格小方巾，棕白。",
+      "description": "小方巾的花纹款，尺寸规格与纯色款相同，适合日常洗脸、擦手使用。",
+      "specs": {
+        "尺寸": "25 × 25 cm",
+        "颜色": "棕白",
+        "材质": "纯棉",
+        "货号": "HUF0007"
+      },
+      "images": [
+        "images/HUF0007/main.jpg",
+        "images/HUF0007/detail-1.jpg",
+        "images/HUF0007/detail-2.jpg",
+        "images/HUF0007/detail-3.jpg",
+        "images/HUF0007/detail-4.jpg"
+      ],
+      "sku": "HUF0007"
+    },
+    {
+      "id": "HUF0001",
+      "sku": "HUF0001",
+      "name": "大方巾",
+      "category": "方巾",
+      "price": 18.3,
+      "summary": "34 × 34 cm，白色 / 棕色 / 灰白条 / 棕白条。",
+      "description": "大方巾，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "34 × 34 cm",
+        "颜色": "白色 / 棕色 / 灰白条 / 棕白条",
+        "材质": "有机棉",
+        "货号": "HUF0001"
+      },
+      "images": [
+        "images/HUF0001/main.jpg",
+        "images/HUF0001/detail-1.jpg",
+        "images/HUF0001/detail-2.jpg",
+        "images/HUF0001/detail-3.jpg",
+        "images/HUF0001/detail-4.jpg",
+        "images/HUF0001/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "HUF0004",
+      "sku": "HUF0004",
+      "name": "提花大方巾",
+      "category": "方巾",
+      "price": 18.3,
+      "summary": "34 × 34 cm，混色。",
+      "description": "提花大方巾，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "34 × 34 cm",
+        "颜色": "混色",
+        "材质": "有机棉",
+        "货号": "HUF0004"
+      },
+      "images": [
+        "images/HUF0004/main.jpg",
+        "images/HUF0004/detail-1.jpg",
+        "images/HUF0004/detail-2.jpg",
+        "images/HUF0004/detail-3.jpg",
+        "images/HUF0004/detail-4.jpg",
+        "images/HUF0004/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "HUF0006",
+      "sku": "HUF0006",
+      "name": "方格大方巾",
+      "category": "方巾",
+      "price": 18.3,
+      "summary": "34 × 34 cm，棕白。",
+      "description": "方格大方巾，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "34 × 34 cm",
+        "颜色": "棕白",
+        "材质": "有机棉",
+        "货号": "HUF0006"
+      },
+      "images": [
+        "images/HUF0006/main.jpg"
+      ]
+    },
+    {
+      "id": "HUF0008",
+      "sku": "HUF0008",
+      "name": "纱布方巾",
+      "category": "方巾",
+      "price": 13.5,
+      "summary": "30 × 30 cm，浅棕。",
+      "description": "纱布方巾，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "30 × 30 cm",
+        "颜色": "浅棕",
+        "材质": "有机棉",
+        "货号": "HUF0008"
+      },
+      "images": [
+        "images/HUF0008/main.jpg",
+        "images/HUF0008/detail-1.jpg",
+        "images/HUF0008/detail-2.jpg",
+        "images/HUF0008/detail-3.jpg",
+        "images/HUF0008/detail-4.jpg",
+        "images/HUF0008/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "HUF0012",
+      "sku": "HUF0012",
+      "name": "棋盘格大方巾",
+      "category": "方巾",
+      "price": 18.3,
+      "summary": "34 × 34 cm，棕色。",
+      "description": "棋盘格大方巾，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "34 × 34 cm",
+        "颜色": "棕色",
+        "材质": "有机棉",
+        "货号": "HUF0012"
+      },
+      "images": [
+        "images/HUF0012/main.jpg",
+        "images/HUF0012/detail-1.jpg",
+        "images/HUF0012/detail-2.jpg",
+        "images/HUF0012/detail-3.jpg",
+        "images/HUF0012/detail-4.jpg",
+        "images/HUF0012/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "HUM0001",
+      "sku": "HUM0001",
+      "name": "毛巾",
+      "category": "毛巾",
+      "price": 37.6,
+      "summary": "34 × 76 cm，白色 / 棕色 / 棕白条（无捻） / 灰白条（无捻）。",
+      "description": "毛巾，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "34 × 76 cm",
+        "颜色": "白色 / 棕色 / 棕白条（无捻） / 灰白条（无捻）",
+        "材质": "有机棉",
+        "货号": "HUM0001"
+      },
+      "images": [
+        "images/HUM0001/main.jpg",
+        "images/HUM0001/detail-1.jpg",
+        "images/HUM0001/detail-2.jpg",
+        "images/HUM0001/detail-3.jpg",
+        "images/HUM0001/detail-4.jpg",
+        "images/HUM0001/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "HUM0003",
+      "sku": "HUM0003",
+      "name": "提花毛巾",
+      "category": "毛巾",
+      "price": 32.7,
+      "summary": "34 × 50 cm，混色。",
+      "description": "提花毛巾，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "34 × 50 cm",
+        "颜色": "混色",
+        "材质": "有机棉",
+        "货号": "HUM0003"
+      },
+      "images": [
+        "images/HUM0003/main.jpg"
+      ]
+    },
+    {
+      "id": "HUM0004",
+      "sku": "HUM0004",
+      "name": "方格毛巾",
+      "category": "毛巾",
+      "price": 37.6,
+      "summary": "34 × 76 cm，混色。",
+      "description": "方格毛巾，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "34 × 76 cm",
+        "颜色": "混色",
+        "材质": "有机棉",
+        "货号": "HUM0004"
+      },
+      "images": [
+        "images/HUM0004/main.jpg"
+      ]
+    },
+    {
+      "id": "HUM0006",
+      "sku": "HUM0006",
+      "name": "纱布毛巾",
+      "category": "毛巾",
+      "price": 23.1,
+      "summary": "30 × 55 cm，浅棕 / 白色。",
+      "description": "纱布毛巾，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "30 × 55 cm",
+        "颜色": "浅棕 / 白色",
+        "材质": "有机棉",
+        "货号": "HUM0006"
+      },
+      "images": [
+        "images/HUM0006/main.jpg",
+        "images/HUM0006/detail-1.jpg",
+        "images/HUM0006/detail-2.jpg",
+        "images/HUM0006/detail-3.jpg",
+        "images/HUM0006/detail-4.jpg",
+        "images/HUM0006/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "HUM0007",
+      "sku": "HUM0007",
+      "name": "棋盘格毛巾",
+      "category": "毛巾",
+      "price": 37.6,
+      "summary": "34 × 76 cm，棕色。",
+      "description": "棋盘格毛巾，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "34 × 76 cm",
+        "颜色": "棕色",
+        "材质": "有机棉",
+        "货号": "HUM0007"
+      },
+      "images": [
+        "images/HUM0007/main.jpg",
+        "images/HUM0007/detail-1.jpg"
+      ]
+    },
+    {
+      "id": "SAB0005",
+      "sku": "SAB0005",
+      "name": "毛巾大礼盒",
+      "category": "礼盒",
+      "price": 283.2,
+      "summary": "1 条浴巾、2 条毛巾、2 条方巾及配件，混色。",
+      "description": "毛巾大礼盒，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "1 条浴巾、2 条毛巾、2 条方巾及配件",
+        "颜色": "混色",
+        "材质": "有机棉",
+        "货号": "SAB0005"
+      },
+      "images": [
+        "images/SAB0005/main.jpg",
+        "images/SAB0005/detail-1.jpg",
+        "images/SAB0005/detail-2.jpg"
+      ]
+    },
+    {
+      "id": "SAB0003",
+      "sku": "SAB0003",
+      "name": "毛巾中礼盒",
+      "category": "礼盒",
+      "price": 143.5,
+      "summary": "2 条毛巾、2 条方巾，混色。",
+      "description": "毛巾中礼盒，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "2 条毛巾、2 条方巾",
+        "颜色": "混色",
+        "材质": "有机棉",
+        "货号": "SAB0003"
+      },
+      "images": [
+        "images/SAB0003/main.jpg",
+        "images/SAB0003/detail-1.jpg",
+        "images/SAB0003/detail-2.jpg",
+        "images/SAB0003/detail-3.jpg",
+        "images/SAB0003/detail-4.jpg",
+        "images/SAB0003/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SUS0001",
+      "sku": "SUS0001",
+      "name": "基础袜（罗纹）",
+      "category": "袜子",
+      "price": 13.5,
+      "summary": "22-24 / 24-26 / 26-28 cm，另有短款，白色 / 绿色 / 棕色 / 灰色。",
+      "description": "基础袜（罗纹），素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "22-24 / 24-26 / 26-28 cm，另有短款",
+        "颜色": "白色 / 绿色 / 棕色 / 灰色",
+        "材质": "有机棉",
+        "货号": "SUS0001"
+      },
+      "images": [
+        "images/SUS0001/main.jpg",
+        "images/SUS0001/detail-1.jpg",
+        "images/SUS0001/detail-2.jpg",
+        "images/SUS0001/detail-3.jpg",
+        "images/SUS0001/detail-4.jpg",
+        "images/SUS0001/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SUS0002",
+      "sku": "SUS0002",
+      "name": "基础袜（麦穗）",
+      "category": "袜子",
+      "price": 13.5,
+      "summary": "22-24 / 26-28 cm，白色 / 绿色 / 棕色。",
+      "description": "基础袜（麦穗），素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "22-24 / 26-28 cm",
+        "颜色": "白色 / 绿色 / 棕色",
+        "材质": "有机棉",
+        "货号": "SUS0002"
+      },
+      "images": [
+        "images/SUS0002/main.jpg",
+        "images/SUS0002/detail-1.jpg",
+        "images/SUS0002/detail-2.jpg",
+        "images/SUS0002/detail-3.jpg",
+        "images/SUS0002/detail-4.jpg",
+        "images/SUS0002/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SUS0003",
+      "sku": "SUS0003",
+      "name": "基础袜（平纹）",
+      "category": "袜子",
+      "price": 13.5,
+      "summary": "22-24 / 24-26 / 26-28 / 28-30 cm，白色 / 绿色 / 棕色 / 灰色。",
+      "description": "基础袜（平纹），素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "22-24 / 24-26 / 26-28 / 28-30 cm",
+        "颜色": "白色 / 绿色 / 棕色 / 灰色",
+        "材质": "有机棉",
+        "货号": "SUS0003"
+      },
+      "images": [
+        "images/SUS0003/main.jpg",
+        "images/SUS0003/detail-1.jpg",
+        "images/SUS0003/detail-2.jpg",
+        "images/SUS0003/detail-3.jpg",
+        "images/SUS0003/detail-4.jpg",
+        "images/SUS0003/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "ESUM005",
+      "sku": "ESUM005",
+      "name": "女袜（两双装）",
+      "category": "袜子",
+      "price": 18.3,
+      "summary": "22-24 cm，棕白条。",
+      "description": "女袜（两双装），素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "22-24 cm",
+        "颜色": "棕白条",
+        "材质": "有机棉",
+        "货号": "ESUM005"
+      },
+      "images": [
+        "images/ESUM005/main.jpg",
+        "images/ESUM005/detail-1.jpg",
+        "images/ESUM005/detail-2.jpg"
+      ]
+    },
+    {
+      "id": "SWS0001",
+      "sku": "SWS0001",
+      "name": "彩棉运动袜",
+      "category": "袜子",
+      "price": 18.3,
+      "summary": "22-24 cm，绿色。",
+      "description": "彩棉运动袜，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "22-24 cm",
+        "颜色": "绿色",
+        "材质": "有机棉",
+        "货号": "SWS0001"
+      },
+      "images": [
+        "images/SWS0001/main.jpg",
+        "images/SWS0001/detail-1.jpg",
+        "images/SWS0001/detail-2.jpg"
+      ]
+    },
+    {
+      "id": "SWS0002",
+      "sku": "SWS0002",
+      "name": "点点星袜",
+      "category": "袜子",
+      "price": 13.5,
+      "summary": "22-24 cm，棕色。",
+      "description": "点点星袜，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "22-24 cm",
+        "颜色": "棕色",
+        "材质": "有机棉",
+        "货号": "SWS0002"
+      },
+      "images": [
+        "images/SWS0002/main.jpg",
+        "images/SWS0002/detail-1.jpg",
+        "images/SWS0002/detail-2.jpg"
+      ]
+    },
+    {
+      "id": "SWS0003",
+      "sku": "SWS0003",
+      "name": "细条女袜",
+      "category": "袜子",
+      "price": 18.3,
+      "summary": "22-24 cm，灰色。",
+      "description": "细条女袜，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "22-24 cm",
+        "颜色": "灰色",
+        "材质": "有机棉",
+        "货号": "SWS0003"
+      },
+      "images": [
+        "images/SWS0003/main.jpg",
+        "images/SWS0003/detail-1.jpg",
+        "images/SWS0003/detail-2.jpg"
+      ]
+    },
+    {
+      "id": "SWS0004",
+      "sku": "SWS0004",
+      "name": "条纹松口袜",
+      "category": "袜子",
+      "price": 18.3,
+      "summary": "22-24 cm，绿色。",
+      "description": "条纹松口袜，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "22-24 cm",
+        "颜色": "绿色",
+        "材质": "有机棉",
+        "货号": "SWS0004"
+      },
+      "images": [
+        "images/SWS0004/main.jpg",
+        "images/SWS0004/detail-1.jpg",
+        "images/SWS0004/detail-2.jpg"
+      ]
+    },
+    {
+      "id": "SWS0006",
+      "sku": "SWS0006",
+      "name": "纹样提花女袜",
+      "category": "袜子",
+      "price": 18.3,
+      "summary": "22-24 cm，白色。",
+      "description": "纹样提花女袜，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "22-24 cm",
+        "颜色": "白色",
+        "材质": "有机棉",
+        "货号": "SWS0006"
+      },
+      "images": [
+        "images/SWS0006/main.jpg",
+        "images/SWS0006/detail-1.jpg",
+        "images/SWS0006/detail-2.jpg"
+      ]
+    },
+    {
+      "id": "SWS0008",
+      "sku": "SWS0008",
+      "name": "船袜",
+      "category": "袜子",
+      "price": 13.5,
+      "summary": "22-24 / 25-27 cm，棕条 / 绿条 / 棕色 / 白色 / 灰色。",
+      "description": "船袜，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "22-24 / 25-27 cm",
+        "颜色": "棕条 / 绿条 / 棕色 / 白色 / 灰色",
+        "材质": "有机棉",
+        "货号": "SWS0008"
+      },
+      "images": [
+        "images/SWS0008/main.jpg",
+        "images/SWS0008/detail-1.jpg",
+        "images/SWS0008/detail-2.jpg",
+        "images/SWS0008/detail-3.jpg",
+        "images/SWS0008/detail-4.jpg",
+        "images/SWS0008/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SWS0014",
+      "sku": "SWS0014",
+      "name": "马赛克棉袜",
+      "category": "袜子",
+      "price": 18.3,
+      "summary": "22-24 cm，灰白。",
+      "description": "马赛克棉袜，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "22-24 cm",
+        "颜色": "灰白",
+        "材质": "有机棉",
+        "货号": "SWS0014"
+      },
+      "images": [
+        "images/SWS0014/main.jpg",
+        "images/SWS0014/detail-1.jpg",
+        "images/SWS0014/detail-2.jpg",
+        "images/SWS0014/detail-3.jpg",
+        "images/SWS0014/detail-4.jpg",
+        "images/SWS0014/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SBS0001",
+      "sku": "SBS0001",
+      "name": "混色女袜",
+      "category": "袜子",
+      "price": 18.3,
+      "summary": "22-24 cm，灰色。",
+      "description": "混色女袜，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "22-24 cm",
+        "颜色": "灰色",
+        "材质": "有机棉",
+        "货号": "SBS0001"
+      },
+      "images": [
+        "images/SBS0001/main.jpg",
+        "images/SBS0001/detail-1.jpg",
+        "images/SBS0001/detail-2.jpg",
+        "images/SBS0001/detail-3.jpg"
+      ]
+    },
+    {
+      "id": "SBS0002",
+      "sku": "SBS0002",
+      "name": "提花女袜",
+      "category": "袜子",
+      "price": 18.3,
+      "summary": "22-24 cm，灰色。",
+      "description": "提花女袜，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "22-24 cm",
+        "颜色": "灰色",
+        "材质": "有机棉",
+        "货号": "SBS0002"
+      },
+      "images": [
+        "images/SBS0002/main.jpg",
+        "images/SBS0002/detail-1.jpg",
+        "images/SBS0002/detail-2.jpg"
+      ]
+    },
+    {
+      "id": "SWS0016",
+      "sku": "SWS0016",
+      "name": "点点星船袜",
+      "category": "袜子",
+      "price": 13.5,
+      "summary": "22-24 cm，棕色 / 绿色。",
+      "description": "点点星船袜，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "22-24 cm",
+        "颜色": "棕色 / 绿色",
+        "材质": "有机棉",
+        "货号": "SWS0016"
+      },
+      "images": [
+        "images/SWS0016/main.jpg",
+        "images/SWS0016/detail-1.jpg",
+        "images/SWS0016/detail-2.jpg"
+      ]
+    },
+    {
+      "id": "SWS0017",
+      "sku": "SWS0017",
+      "name": "镂空女袜",
+      "category": "袜子",
+      "price": 13.5,
+      "summary": "22-24 cm，白色。",
+      "description": "镂空女袜，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "22-24 cm",
+        "颜色": "白色",
+        "材质": "有机棉",
+        "货号": "SWS0017"
+      },
+      "images": [
+        "images/SWS0017/main.jpg",
+        "images/SWS0017/detail-1.jpg",
+        "images/SWS0017/detail-2.jpg",
+        "images/SWS0017/detail-3.jpg",
+        "images/SWS0017/detail-4.jpg",
+        "images/SWS0017/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SWS0018",
+      "sku": "SWS0018",
+      "name": "花边网眼袜",
+      "category": "袜子",
+      "price": 13.5,
+      "summary": "22-24 cm，白色。",
+      "description": "花边网眼袜，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "22-24 cm",
+        "颜色": "白色",
+        "材质": "有机棉",
+        "货号": "SWS0018"
+      },
+      "images": [
+        "images/SWS0018/main.jpg",
+        "images/SWS0018/detail-1.jpg",
+        "images/SWS0018/detail-2.jpg",
+        "images/SWS0018/detail-3.jpg",
+        "images/SWS0018/detail-4.jpg"
+      ]
+    },
+    {
+      "id": "SWS0020",
+      "sku": "SWS0020",
+      "name": "柔肤无感袜",
+      "category": "袜子",
+      "price": 18.3,
+      "summary": "22-24 cm，棕色。",
+      "description": "柔肤无感袜，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "22-24 cm",
+        "颜色": "棕色",
+        "材质": "有机棉",
+        "货号": "SWS0020"
+      },
+      "images": [
+        "images/SWS0020/main.jpg",
+        "images/SWS0020/detail-1.jpg",
+        "images/SWS0020/detail-2.jpg",
+        "images/SWS0020/detail-3.jpg",
+        "images/SWS0020/detail-4.jpg",
+        "images/SWS0020/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SWS0011",
+      "sku": "SWS0011",
+      "name": "卷边女袜",
+      "category": "袜子",
+      "price": 18.3,
+      "summary": "22-24 cm，棕色。",
+      "description": "卷边女袜，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "22-24 cm",
+        "颜色": "棕色",
+        "材质": "有机棉",
+        "货号": "SWS0011"
+      },
+      "images": [
+        "images/SWS0011/main.jpg",
+        "images/SWS0011/detail-1.jpg",
+        "images/SWS0011/detail-2.jpg"
+      ]
+    },
+    {
+      "id": "SUS0005",
+      "sku": "SUS0005",
+      "name": "运动袜（厚）",
+      "category": "袜子",
+      "price": 32.7,
+      "summary": "22-24 cm（混色） / 26-28 cm（棕色），混色 / 棕色。",
+      "description": "运动袜（厚），素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "22-24 cm（混色） / 26-28 cm（棕色）",
+        "颜色": "混色 / 棕色",
+        "材质": "有机棉",
+        "货号": "SUS0005"
+      },
+      "images": [
+        "images/SUS0005/main.jpg",
+        "images/SUS0005/detail-1.jpg",
+        "images/SUS0005/detail-2.jpg",
+        "images/SUS0005/detail-3.jpg",
+        "images/SUS0005/detail-4.jpg",
+        "images/SUS0005/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SUS0008",
+      "sku": "SUS0008",
+      "name": "时尚功能袜",
+      "category": "袜子",
+      "price": 27.9,
+      "summary": "22-24 / 25-27 cm，棕白色。",
+      "description": "时尚功能袜，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "22-24 / 25-27 cm",
+        "颜色": "棕白色",
+        "材质": "有机棉",
+        "货号": "SUS0008"
+      },
+      "images": [
+        "images/SUS0008/main.jpg",
+        "images/SUS0008/detail-1.jpg",
+        "images/SUS0008/detail-2.jpg"
+      ]
+    },
+    {
+      "id": "SUS0007",
+      "sku": "SUS0007",
+      "name": "复古彩环袜",
+      "category": "袜子",
+      "price": 27.9,
+      "summary": "26-28 cm，混色。",
+      "description": "复古彩环袜，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "26-28 cm",
+        "颜色": "混色",
+        "材质": "有机棉",
+        "货号": "SUS0007"
+      },
+      "images": [
+        "images/SUS0007/main.jpg",
+        "images/SUS0007/detail-1.jpg",
+        "images/SUS0007/detail-2.jpg"
+      ]
+    },
+    {
+      "id": "SUS0009",
+      "sku": "SUS0009",
+      "name": "时尚船袜",
+      "category": "袜子",
+      "price": 13.5,
+      "summary": "26-28 cm，灰色。",
+      "description": "时尚船袜，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "26-28 cm",
+        "颜色": "灰色",
+        "材质": "有机棉",
+        "货号": "SUS0009"
+      },
+      "images": [
+        "images/SUS0009/main.jpg",
+        "images/SUS0009/detail-1.jpg"
+      ]
+    },
+    {
+      "id": "SUS0004",
+      "sku": "SUS0004",
+      "name": "英伦袜",
+      "category": "袜子",
+      "price": 18.3,
+      "summary": "22-24 cm，灰色 / 混色。",
+      "description": "英伦袜，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "22-24 cm",
+        "颜色": "灰色 / 混色",
+        "材质": "有机棉",
+        "货号": "SUS0004"
+      },
+      "images": [
+        "images/SUS0004/main.jpg",
+        "images/SUS0004/detail-1.jpg",
+        "images/SUS0004/detail-2.jpg"
+      ]
+    },
+    {
+      "id": "SWS0015",
+      "sku": "SWS0015",
+      "name": "渐变袜",
+      "category": "袜子",
+      "price": 18.3,
+      "summary": "26-28 cm，棕色。",
+      "description": "渐变袜，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "26-28 cm",
+        "颜色": "棕色",
+        "材质": "有机棉",
+        "货号": "SWS0015"
+      },
+      "images": [
+        "images/SWS0015/main.jpg",
+        "images/SWS0015/detail-1.jpg",
+        "images/SWS0015/detail-2.jpg",
+        "images/SWS0015/detail-3.jpg",
+        "images/SWS0015/detail-4.jpg",
+        "images/SWS0015/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SWS0005",
+      "sku": "SWS0005",
+      "name": "竹格男袜",
+      "category": "袜子",
+      "price": 18.3,
+      "summary": "24-26 cm，棕色。",
+      "description": "竹格男袜，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "24-26 cm",
+        "颜色": "棕色",
+        "材质": "有机棉",
+        "货号": "SWS0005"
+      },
+      "images": [
+        "images/SWS0005/main.jpg",
+        "images/SWS0005/detail-1.jpg",
+        "images/SWS0005/detail-2.jpg",
+        "images/SWS0005/detail-3.jpg",
+        "images/SWS0005/detail-4.jpg",
+        "images/SWS0005/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SBS0003",
+      "sku": "SBS0003",
+      "name": "素色男袜",
+      "category": "袜子",
+      "price": 18.3,
+      "summary": "26-28 cm，灰色。",
+      "description": "素色男袜，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "26-28 cm",
+        "颜色": "灰色",
+        "材质": "有机棉",
+        "货号": "SBS0003"
+      },
+      "images": [
+        "images/SBS0003/main.jpg",
+        "images/SBS0003/detail-1.jpg",
+        "images/SBS0003/detail-2.jpg",
+        "images/SBS0003/detail-3.jpg",
+        "images/SBS0003/detail-4.jpg",
+        "images/SBS0003/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SBS0004",
+      "sku": "SBS0004",
+      "name": "男船袜",
+      "category": "袜子",
+      "price": 13.5,
+      "summary": "26-28 cm，白色。",
+      "description": "男船袜，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "26-28 cm",
+        "颜色": "白色",
+        "材质": "有机棉",
+        "货号": "SBS0004"
+      },
+      "images": [
+        "images/SBS0004/main.jpg",
+        "images/SBS0004/detail-1.jpg",
+        "images/SBS0004/detail-2.jpg",
+        "images/SBS0004/detail-3.jpg",
+        "images/SBS0004/detail-4.jpg",
+        "images/SBS0004/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SBS0005",
+      "sku": "SBS0005",
+      "name": "方格男袜",
+      "category": "袜子",
+      "price": 18.3,
+      "summary": "26-28 cm，棕色。",
+      "description": "方格男袜，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "26-28 cm",
+        "颜色": "棕色",
+        "材质": "有机棉",
+        "货号": "SBS0005"
+      },
+      "images": [
+        "images/SBS0005/main.jpg",
+        "images/SBS0005/detail-1.jpg",
+        "images/SBS0005/detail-2.jpg",
+        "images/SBS0005/detail-3.jpg",
+        "images/SBS0005/detail-4.jpg",
+        "images/SBS0005/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SBS0006",
+      "sku": "SBS0006",
+      "name": "斜纹棉袜",
+      "category": "袜子",
+      "price": 18.3,
+      "summary": "26-28 cm，灰色。",
+      "description": "斜纹棉袜，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "26-28 cm",
+        "颜色": "灰色",
+        "材质": "有机棉",
+        "货号": "SBS0006"
+      },
+      "images": [
+        "images/SBS0006/main.jpg",
+        "images/SBS0006/detail-1.jpg",
+        "images/SBS0006/detail-2.jpg"
+      ]
+    },
+    {
+      "id": "SBS0007",
+      "sku": "SBS0007",
+      "name": "慢跑袜",
+      "category": "袜子",
+      "price": 18.3,
+      "summary": "26-28 cm，混色。",
+      "description": "慢跑袜，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "26-28 cm",
+        "颜色": "混色",
+        "材质": "有机棉",
+        "货号": "SBS0007"
+      },
+      "images": [
+        "images/SBS0007/main.jpg",
+        "images/SBS0007/detail-1.jpg",
+        "images/SBS0007/detail-2.jpg"
+      ]
+    },
+    {
+      "id": "SBS0008",
+      "sku": "SBS0008",
+      "name": "欧陆风男袜",
+      "category": "袜子",
+      "price": 13.5,
+      "summary": "26-28 cm，灰色。",
+      "description": "欧陆风男袜，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "26-28 cm",
+        "颜色": "灰色",
+        "材质": "有机棉",
+        "货号": "SBS0008"
+      },
+      "images": [
+        "images/SBS0008/main.jpg",
+        "images/SBS0008/detail-1.jpg",
+        "images/SBS0008/detail-2.jpg",
+        "images/SBS0008/detail-3.jpg",
+        "images/SBS0008/detail-4.jpg",
+        "images/SBS0008/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SBS0009",
+      "sku": "SBS0009",
+      "name": "纹理男袜",
+      "category": "袜子",
+      "price": 13.5,
+      "summary": "26-28 cm，灰色。",
+      "description": "纹理男袜，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "26-28 cm",
+        "颜色": "灰色",
+        "材质": "有机棉",
+        "货号": "SBS0009"
+      },
+      "images": [
+        "images/SBS0009/main.jpg",
+        "images/SBS0009/detail-1.jpg",
+        "images/SBS0009/detail-2.jpg",
+        "images/SBS0009/detail-3.jpg",
+        "images/SBS0009/detail-4.jpg"
+      ]
+    },
+    {
+      "id": "SWS0021",
+      "sku": "SWS0021",
+      "name": "毛毛虫中筒袜",
+      "category": "袜子",
+      "price": 23.1,
+      "summary": "22-24 cm，混色（绿色 / 棕色）。",
+      "description": "毛毛虫中筒袜，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "22-24 cm",
+        "颜色": "混色（绿色 / 棕色）",
+        "材质": "有机棉",
+        "货号": "SWS0021"
+      },
+      "images": [
+        "images/SWS0021/main.jpg",
+        "images/SWS0021/detail-1.jpg",
+        "images/SWS0021/detail-2.jpg",
+        "images/SWS0021/detail-3.jpg",
+        "images/SWS0021/detail-4.jpg",
+        "images/SWS0021/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SWS0022",
+      "sku": "SWS0022",
+      "name": "健足袜",
+      "category": "袜子",
+      "price": 47.2,
+      "summary": "24-26 / 26-28 cm，混色。",
+      "description": "健足袜，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "24-26 / 26-28 cm",
+        "颜色": "混色",
+        "材质": "有机棉",
+        "货号": "SWS0022"
+      },
+      "images": [
+        "images/SWS0022/main.jpg",
+        "images/SWS0022/detail-1.jpg",
+        "images/SWS0022/detail-2.jpg",
+        "images/SWS0022/detail-3.jpg",
+        "images/SWS0022/detail-4.jpg",
+        "images/SWS0022/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SWS0023",
+      "sku": "SWS0023",
+      "name": "五指袜",
+      "category": "袜子",
+      "price": 23.1,
+      "summary": "22-24 cm（棕色） / 26-28 cm（灰色），棕色 / 灰色。",
+      "description": "五指袜，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "22-24 cm（棕色） / 26-28 cm（灰色）",
+        "颜色": "棕色 / 灰色",
+        "材质": "有机棉",
+        "货号": "SWS0023"
+      },
+      "images": [
+        "images/SWS0023/main.jpg",
+        "images/SWS0023/detail-1.jpg",
+        "images/SWS0023/detail-2.jpg",
+        "images/SWS0023/detail-3.jpg",
+        "images/SWS0023/detail-4.jpg",
+        "images/SWS0023/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SBCG0023",
+      "sku": "SBCG0023",
+      "name": "儿童运动袜",
+      "category": "童袜",
+      "price": 13.5,
+      "summary": "20-22 cm，混色（绿条）。",
+      "description": "儿童运动袜，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "20-22 cm",
+        "颜色": "混色（绿条）",
+        "材质": "有机棉",
+        "货号": "SBCG0023"
+      },
+      "images": [
+        "images/SBCG0023/main.jpg",
+        "images/SBCG0023/detail-1.jpg",
+        "images/SBCG0023/detail-2.jpg",
+        "images/SBCG0023/detail-3.jpg"
+      ]
+    },
+    {
+      "id": "SBCG0024",
+      "sku": "SBCG0024",
+      "name": "童袜",
+      "category": "童袜",
+      "price": 13.5,
+      "summary": "20-22 cm，棕色 / 灰白条 / 棕白条。",
+      "description": "童袜，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "20-22 cm",
+        "颜色": "棕色 / 灰白条 / 棕白条",
+        "材质": "有机棉",
+        "货号": "SBCG0024"
+      },
+      "images": [
+        "images/SBCG0024/main.jpg",
+        "images/SBCG0024/detail-1.jpg",
+        "images/SBCG0024/detail-2.jpg",
+        "images/SBCG0024/detail-3.jpg",
+        "images/SBCG0024/detail-4.jpg",
+        "images/SBCG0024/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SBFE0001",
+      "sku": "SBFE0001",
+      "name": "女士三角裤",
+      "category": "女士内衣",
+      "price": 42.0,
+      "summary": "M / L / XL / XXL，低腰混色 / 中腰棕色。",
+      "description": "女士三角裤，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "M / L / XL / XXL",
+        "颜色": "低腰混色 / 中腰棕色",
+        "材质": "有机棉",
+        "货号": "SBFE0001"
+      },
+      "images": [
+        "images/SBFE0001/main.jpg",
+        "images/SBFE0001/detail-1.jpg",
+        "images/SBFE0001/detail-2.jpg",
+        "images/SBFE0001/detail-3.jpg",
+        "images/SBFE0001/detail-4.jpg",
+        "images/SBFE0001/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SBFE0002",
+      "sku": "SBFE0002",
+      "name": "提臀塑身裤",
+      "category": "女士内衣",
+      "price": 42.0,
+      "summary": "M / L / XL / XXL，白色。",
+      "description": "提臀塑身裤，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "M / L / XL / XXL",
+        "颜色": "白色",
+        "材质": "有机棉",
+        "货号": "SBFE0002"
+      },
+      "images": [
+        "images/SBFE0002/main.jpg",
+        "images/SBFE0002/detail-1.jpg",
+        "images/SBFE0002/detail-2.jpg",
+        "images/SBFE0002/detail-3.jpg",
+        "images/SBFE0002/detail-4.jpg",
+        "images/SBFE0002/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SBFE0003",
+      "sku": "SBFE0003",
+      "name": "女士平角裤（2 条装）",
+      "category": "女士内衣",
+      "price": 60.2,
+      "summary": "M / L / XL / XXL，混色。",
+      "description": "女士平角裤（2 条装），素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "M / L / XL / XXL",
+        "颜色": "混色",
+        "材质": "有机棉",
+        "货号": "SBFE0003"
+      },
+      "images": [
+        "images/SBFE0003/main.jpg",
+        "images/SBFE0003/detail-1.jpg",
+        "images/SBFE0003/detail-2.jpg",
+        "images/SBFE0003/detail-3.jpg",
+        "images/SBFE0003/detail-4.jpg",
+        "images/SBFE0003/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SBFE0004",
+      "sku": "SBFE0004",
+      "name": "女士小平角裤",
+      "category": "女士内衣",
+      "price": 42.0,
+      "summary": "M / L / XL / XXL，混色。",
+      "description": "女士小平角裤，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "M / L / XL / XXL",
+        "颜色": "混色",
+        "材质": "有机棉",
+        "货号": "SBFE0004"
+      },
+      "images": [
+        "images/SBFE0004/main.jpg",
+        "images/SBFE0004/detail-1.jpg",
+        "images/SBFE0004/detail-2.jpg",
+        "images/SBFE0004/detail-3.jpg",
+        "images/SBFE0004/detail-4.jpg",
+        "images/SBFE0004/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SBFE0005",
+      "sku": "SBFE0005",
+      "name": "女士大平角裤",
+      "category": "女士内衣",
+      "price": 42.0,
+      "summary": "M / L / XL / XXL，混色。",
+      "description": "女士大平角裤，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "M / L / XL / XXL",
+        "颜色": "混色",
+        "材质": "有机棉",
+        "货号": "SBFE0005"
+      },
+      "images": [
+        "images/SBFE0005/main.jpg",
+        "images/SBFE0005/detail-1.jpg",
+        "images/SBFE0005/detail-2.jpg",
+        "images/SBFE0005/detail-3.jpg",
+        "images/SBFE0005/detail-4.jpg",
+        "images/SBFE0005/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SBFE0030",
+      "sku": "SBFE0030",
+      "name": "女士内裤（三角款）",
+      "category": "女士内衣",
+      "price": 51.6,
+      "summary": "常规款 M / XL；无痕款 M / L / XL / XXL，混色 / 混色（绿条）。",
+      "description": "女士内裤（三角款），素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "常规款 M / XL；无痕款 M / L / XL / XXL",
+        "颜色": "混色 / 混色（绿条）",
+        "材质": "有机棉",
+        "货号": "SBFE0030"
+      },
+      "images": [
+        "images/SBFE0030/detail-1.jpg",
+        "images/SBFE0030/detail-2.jpg",
+        "images/SBFE0030/detail-3.jpg",
+        "images/SBFE0030/detail-4.jpg",
+        "images/SBFE0030/detail-5.jpg",
+        "images/SBFE0030/main.jpg"
+      ]
+    },
+    {
+      "id": "SGWT0025",
+      "sku": "SGWT0025",
+      "name": "文胸",
+      "category": "女士内衣",
+      "price": 81.9,
+      "summary": "75B / 80B / 85B / 90B，混色（棕白条） / 棕色。",
+      "description": "文胸，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "75B / 80B / 85B / 90B",
+        "颜色": "混色（棕白条） / 棕色",
+        "材质": "有机棉",
+        "货号": "SGWT0025"
+      },
+      "images": [
+        "images/SGWT0025/main.jpg",
+        "images/SGWT0025/detail-1.jpg",
+        "images/SGWT0025/detail-2.jpg",
+        "images/SGWT0025/detail-3.jpg",
+        "images/SGWT0025/detail-4.jpg",
+        "images/SGWT0025/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SGWT0026",
+      "sku": "SGWT0026",
+      "name": "吊带内衣",
+      "category": "女士内衣",
+      "price": 81.9,
+      "summary": "75B / 80B / 85B，混色（棕细白条） / 棕色。",
+      "description": "吊带内衣，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "75B / 80B / 85B",
+        "颜色": "混色（棕细白条） / 棕色",
+        "材质": "有机棉",
+        "货号": "SGWT0026"
+      },
+      "images": [
+        "images/SGWT0026/main.jpg",
+        "images/SGWT0026/detail-1.jpg",
+        "images/SGWT0026/detail-2.jpg",
+        "images/SGWT0026/detail-3.jpg",
+        "images/SGWT0026/detail-4.jpg",
+        "images/SGWT0026/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SGWT0030",
+      "sku": "SGWT0030",
+      "name": "背心内衣",
+      "category": "女士内衣",
+      "price": 81.9,
+      "summary": "70B / 75B / 80B / 85B / 90B，棕色 / 白色。",
+      "description": "背心内衣，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "70B / 75B / 80B / 85B / 90B",
+        "颜色": "棕色 / 白色",
+        "材质": "有机棉",
+        "货号": "SGWT0030"
+      },
+      "images": [
+        "images/SGWT0030/main.jpg",
+        "images/SGWT0030/detail-1.jpg",
+        "images/SGWT0030/detail-2.jpg",
+        "images/SGWT0030/detail-3.jpg",
+        "images/SGWT0030/detail-4.jpg",
+        "images/SGWT0030/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SGWT0034",
+      "sku": "SGWT0034",
+      "name": "胸垫背心",
+      "category": "女士内衣",
+      "price": 61.1,
+      "summary": "155 / 160 / 165 / 170，白色 / 棕色 / 灰色。",
+      "description": "胸垫背心，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "155 / 160 / 165 / 170",
+        "颜色": "白色 / 棕色 / 灰色",
+        "材质": "有机棉",
+        "货号": "SGWT0034"
+      },
+      "images": [
+        "images/SGWT0034/main.jpg",
+        "images/SGWT0034/detail-1.jpg",
+        "images/SGWT0034/detail-2.jpg",
+        "images/SGWT0034/detail-3.jpg",
+        "images/SGWT0034/detail-4.jpg",
+        "images/SGWT0034/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SBME0001",
+      "sku": "SBME0001",
+      "name": "男士三角裤",
+      "category": "男士内衣",
+      "price": 42.0,
+      "summary": "L / XL / XXL / XXXL，混色。",
+      "description": "男士三角裤，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "L / XL / XXL / XXXL",
+        "颜色": "混色",
+        "材质": "有机棉",
+        "货号": "SBME0001"
+      },
+      "images": [
+        "images/SBME0001/main.jpg",
+        "images/SBME0001/detail-1.jpg",
+        "images/SBME0001/detail-2.jpg"
+      ]
+    },
+    {
+      "id": "SBME0002",
+      "sku": "SBME0002",
+      "name": "男士平角裤",
+      "category": "男士内衣",
+      "price": 42.0,
+      "summary": "L / XL / XXL / XXXL，灰色 / 棕色。",
+      "description": "男士平角裤，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "L / XL / XXL / XXXL",
+        "颜色": "灰色 / 棕色",
+        "材质": "有机棉",
+        "货号": "SBME0002"
+      },
+      "images": [
+        "images/SBME0002/main.jpg",
+        "images/SBME0002/detail-1.jpg",
+        "images/SBME0002/detail-2.jpg",
+        "images/SBME0002/detail-3.jpg",
+        "images/SBME0002/detail-4.jpg",
+        "images/SBME0002/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SBME0003",
+      "sku": "SBME0003",
+      "name": "男士平角裤（混色）",
+      "category": "男士内衣",
+      "price": 42.0,
+      "summary": "L / XL / XXL / XXXL，混色。",
+      "description": "男士平角裤（混色），素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "L / XL / XXL / XXXL",
+        "颜色": "混色",
+        "材质": "有机棉",
+        "货号": "SBME0003"
+      },
+      "images": [
+        "images/SBME0003/main.jpg",
+        "images/SBME0003/detail-1.jpg",
+        "images/SBME0003/detail-2.jpg",
+        "images/SBME0003/detail-3.jpg"
+      ]
+    },
+    {
+      "id": "SBME0005",
+      "sku": "SBME0005",
+      "name": "男士宽松平角裤",
+      "category": "男士内衣",
+      "price": 42.0,
+      "summary": "M / L / XL / XXL / XXXL，混色。",
+      "description": "男士宽松平角裤，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "M / L / XL / XXL / XXXL",
+        "颜色": "混色",
+        "材质": "有机棉",
+        "货号": "SBME0005"
+      },
+      "images": [
+        "images/SBME0005/main.jpg",
+        "images/SBME0005/detail-1.jpg",
+        "images/SBME0005/detail-2.jpg",
+        "images/SBME0005/detail-3.jpg"
+      ]
+    },
+    {
+      "id": "SBME0015",
+      "sku": "SBME0015",
+      "name": "男士内裤（平角）",
+      "category": "男士内衣",
+      "price": 51.6,
+      "summary": "L / XL / XXL / XXXL，混色。",
+      "description": "男士内裤（平角），素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "L / XL / XXL / XXXL",
+        "颜色": "混色",
+        "材质": "有机棉",
+        "货号": "SBME0015"
+      },
+      "images": [
+        "images/SBME0015/detail-1.jpg",
+        "images/SBME0015/detail-2.jpg",
+        "images/SBME0015/detail-3.jpg",
+        "images/SBME0015/detail-4.jpg",
+        "images/SBME0015/detail-5.jpg",
+        "images/SBME0015/main.jpg"
+      ]
+    },
+    {
+      "id": "SGWT0001-F",
+      "sku": "SGWT0001",
+      "name": "女背心",
+      "category": "秋衣套装",
+      "price": 42.1,
+      "summary": "M(160) / L(165) / XL(170)，白色 / 棕白条。",
+      "description": "女背心，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "M(160) / L(165) / XL(170)",
+        "颜色": "白色 / 棕白条",
+        "材质": "有机棉",
+        "货号": "SGWT0001"
+      },
+      "images": [
+        "images/SGWT0001-F/main.jpg",
+        "images/SGWT0001-F/detail-1.jpg",
+        "images/SGWT0001-F/detail-2.jpg",
+        "images/SGWT0001-F/detail-3.jpg",
+        "images/SGWT0001-F/detail-4.jpg",
+        "images/SGWT0001-F/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SGWT0001-M",
+      "sku": "SGWT0001",
+      "name": "男背心",
+      "category": "秋衣套装",
+      "price": 43.1,
+      "summary": "M / L / XL / XXL，棕色 / 白色。",
+      "description": "男背心，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "M / L / XL / XXL",
+        "颜色": "棕色 / 白色",
+        "材质": "有机棉",
+        "货号": "SGWT0001"
+      },
+      "images": [
+        "images/SGWT0001-M/main.jpg",
+        "images/SGWT0001-M/detail-1.jpg",
+        "images/SGWT0001-M/detail-2.jpg",
+        "images/SGWT0001-M/detail-3.jpg",
+        "images/SGWT0001-M/detail-4.jpg",
+        "images/SGWT0001-M/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SBFE0008",
+      "sku": "SBFE0008",
+      "name": "女薄秋衣套装",
+      "category": "秋衣套装",
+      "price": 137.2,
+      "summary": "M / L / XL / XXL，棕色 / 混色（条纹，圆领）。",
+      "description": "女薄秋衣套装，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "M / L / XL / XXL",
+        "颜色": "棕色 / 混色（条纹，圆领）",
+        "材质": "有机棉",
+        "货号": "SBFE0008"
+      },
+      "images": [
+        "images/SBFE0008/main.jpg",
+        "images/SBFE0008/detail-1.jpg",
+        "images/SBFE0008/detail-2.jpg",
+        "images/SBFE0008/detail-3.jpg",
+        "images/SBFE0008/detail-4.jpg",
+        "images/SBFE0008/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SBFE0012",
+      "sku": "SBFE0012",
+      "name": "男薄内衣套装",
+      "category": "秋衣套装",
+      "price": 151.2,
+      "summary": "M/170 / L/175 / XL/180 / XXL/185，棕色 / 灰色。",
+      "description": "男薄内衣套装，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "M/170 / L/175 / XL/180 / XXL/185",
+        "颜色": "棕色 / 灰色",
+        "材质": "有机棉",
+        "货号": "SBFE0012"
+      },
+      "images": [
+        "images/SBFE0012/main.jpg",
+        "images/SBFE0012/detail-1.jpg",
+        "images/SBFE0012/detail-2.jpg",
+        "images/SBFE0012/detail-3.jpg",
+        "images/SBFE0012/detail-4.jpg",
+        "images/SBFE0012/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SBFE0013",
+      "sku": "SBFE0013",
+      "name": "男士厚秋衣套装",
+      "category": "秋衣套装",
+      "price": 151.2,
+      "summary": "M(170) / L(175) / XL(180) / XXL(185)，棕条。",
+      "description": "男士厚秋衣套装，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "M(170) / L(175) / XL(180) / XXL(185)",
+        "颜色": "棕条",
+        "材质": "有机棉",
+        "货号": "SBFE0013"
+      },
+      "images": [
+        "images/SBFE0013/main.jpg",
+        "images/SBFE0013/detail-1.jpg",
+        "images/SBFE0013/detail-2.jpg",
+        "images/SBFE0013/detail-3.jpg",
+        "images/SBFE0013/detail-4.jpg",
+        "images/SBFE0013/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SBFE0024",
+      "sku": "SBFE0024",
+      "name": "女士秋衣套装",
+      "category": "秋衣套装",
+      "price": 151.2,
+      "summary": "M 160 / L 165 / XL 170 / XXL 175，棕色。",
+      "description": "女士秋衣套装，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "M 160 / L 165 / XL 170 / XXL 175",
+        "颜色": "棕色",
+        "材质": "有机棉",
+        "货号": "SBFE0024"
+      },
+      "images": [
+        "images/SBFE0024/main.jpg",
+        "images/SBFE0024/detail-1.jpg",
+        "images/SBFE0024/detail-2.jpg"
+      ]
+    },
+    {
+      "id": "SBFE0025",
+      "sku": "SBFE0025",
+      "name": "男士内衣套装",
+      "category": "秋衣套装",
+      "price": 151.2,
+      "summary": "M(170) / L(175) / XL(180) / XXL(185)，灰色。",
+      "description": "男士内衣套装，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "M(170) / L(175) / XL(180) / XXL(185)",
+        "颜色": "灰色",
+        "材质": "有机棉",
+        "货号": "SBFE0025"
+      },
+      "images": [
+        "images/SBFE0025/main.jpg",
+        "images/SBFE0025/detail-1.jpg",
+        "images/SBFE0025/detail-2.jpg"
+      ]
+    },
+    {
+      "id": "SGWT0020",
+      "sku": "SGWT0020",
+      "name": "家居裤",
+      "category": "家居服",
+      "price": 82.3,
+      "summary": "160 / 165 / 170 / 175 / 180 / 185，浅灰色。",
+      "description": "家居裤，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "160 / 165 / 170 / 175 / 180 / 185",
+        "颜色": "浅灰色",
+        "材质": "有机棉",
+        "货号": "SGWT0020"
+      },
+      "images": [
+        "images/SGWT0020/main.jpg",
+        "images/SGWT0020/detail-1.jpg",
+        "images/SGWT0020/detail-2.jpg",
+        "images/SGWT0020/detail-3.jpg",
+        "images/SGWT0020/detail-4.jpg",
+        "images/SGWT0020/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SGWT0035",
+      "sku": "SGWT0035",
+      "name": "家居裤（树枝纹）",
+      "category": "家居服",
+      "price": 91.0,
+      "summary": "160 / 165 / 170 / 175 / 180 / 185，混色（灰树枝）。",
+      "description": "家居裤（树枝纹），素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "160 / 165 / 170 / 175 / 180 / 185",
+        "颜色": "混色（灰树枝）",
+        "材质": "有机棉",
+        "货号": "SGWT0035"
+      },
+      "images": [
+        "images/SGWT0035/main.jpg",
+        "images/SGWT0035/detail-1.jpg",
+        "images/SGWT0035/detail-2.jpg",
+        "images/SGWT0035/detail-3.jpg",
+        "images/SGWT0035/detail-4.jpg",
+        "images/SGWT0035/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SGWT0018",
+      "sku": "SGWT0018",
+      "name": "家居裙",
+      "category": "家居服",
+      "price": 112.0,
+      "summary": "165 / 170，灰色。",
+      "description": "家居裙，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "165 / 170",
+        "颜色": "灰色",
+        "材质": "有机棉",
+        "货号": "SGWT0018"
+      },
+      "images": [
+        "images/SGWT0018/main.jpg",
+        "images/SGWT0018/detail-1.jpg",
+        "images/SGWT0018/detail-2.jpg",
+        "images/SGWT0018/detail-3.jpg",
+        "images/SGWT0018/detail-4.jpg",
+        "images/SGWT0018/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SGWT0043",
+      "sku": "SGWT0043",
+      "name": "休闲针织五分裤（男女同款）",
+      "category": "家居服",
+      "price": 84.0,
+      "summary": "155 – 185，灰色。",
+      "description": "休闲针织五分裤（男女同款），素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "155 – 185",
+        "颜色": "灰色",
+        "材质": "有机棉",
+        "货号": "SGWT0043"
+      },
+      "images": [
+        "images/SGWT0043/main.jpg",
+        "images/SGWT0043/detail-1.jpg",
+        "images/SGWT0043/detail-2.jpg",
+        "images/SGWT0043/detail-3.jpg",
+        "images/SGWT0043/detail-4.jpg",
+        "images/SGWT0043/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SGWT0040",
+      "sku": "SGWT0040",
+      "name": "女士针织吊带裙",
+      "category": "家居服",
+      "price": 62.7,
+      "summary": "155 / 160 / 165 / 170 / 175，灰色。",
+      "description": "女士针织吊带裙，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "155 / 160 / 165 / 170 / 175",
+        "颜色": "灰色",
+        "材质": "有机棉",
+        "货号": "SGWT0040"
+      },
+      "images": [
+        "images/SGWT0040/main.jpg",
+        "images/SGWT0040/detail-1.jpg",
+        "images/SGWT0040/detail-2.jpg",
+        "images/SGWT0040/detail-3.jpg",
+        "images/SGWT0040/detail-4.jpg",
+        "images/SGWT0040/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SGWT0041",
+      "sku": "SGWT0041",
+      "name": "女士短袖家居服套装",
+      "category": "家居服",
+      "price": 146.0,
+      "summary": "155 / 160 / 165 / 170，混色（条纹）。",
+      "description": "女士短袖家居服套装，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "155 / 160 / 165 / 170",
+        "颜色": "混色（条纹）",
+        "材质": "有机棉",
+        "货号": "SGWT0041"
+      },
+      "images": [
+        "images/SGWT0041/main.jpg",
+        "images/SGWT0041/detail-1.jpg",
+        "images/SGWT0041/detail-2.jpg",
+        "images/SGWT0041/detail-3.jpg",
+        "images/SGWT0041/detail-4.jpg",
+        "images/SGWT0041/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SGWT0038",
+      "sku": "SGWT0038",
+      "name": "女士长袖家居服套装",
+      "category": "家居服",
+      "price": 151.2,
+      "summary": "155 / 160 / 165 / 170，混色（条纹）。",
+      "description": "女士长袖家居服套装，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "155 / 160 / 165 / 170",
+        "颜色": "混色（条纹）",
+        "材质": "有机棉",
+        "货号": "SGWT0038"
+      },
+      "images": [
+        "images/SGWT0038/main.jpg",
+        "images/SGWT0038/detail-1.jpg",
+        "images/SGWT0038/detail-2.jpg",
+        "images/SGWT0038/detail-3.jpg",
+        "images/SGWT0038/detail-4.jpg",
+        "images/SGWT0038/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SGWT0042",
+      "sku": "SGWT0042",
+      "name": "男士短袖家居服套装",
+      "category": "家居服",
+      "price": 146.0,
+      "summary": "170 / 175 / 180 / 185，灰色。",
+      "description": "男士短袖家居服套装，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "170 / 175 / 180 / 185",
+        "颜色": "灰色",
+        "材质": "有机棉",
+        "货号": "SGWT0042"
+      },
+      "images": [
+        "images/SGWT0042/main.jpg",
+        "images/SGWT0042/detail-1.jpg",
+        "images/SGWT0042/detail-2.jpg",
+        "images/SGWT0042/detail-3.jpg",
+        "images/SGWT0042/detail-4.jpg",
+        "images/SGWT0042/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SGWT0039",
+      "sku": "SGWT0039",
+      "name": "男士长袖家居服套装",
+      "category": "家居服",
+      "price": 151.2,
+      "summary": "170 / 175 / 180 / 185，灰色。",
+      "description": "男士长袖家居服套装，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "170 / 175 / 180 / 185",
+        "颜色": "灰色",
+        "材质": "有机棉",
+        "货号": "SGWT0039"
+      },
+      "images": [
+        "images/SGWT0039/main.jpg",
+        "images/SGWT0039/detail-1.jpg",
+        "images/SGWT0039/detail-2.jpg",
+        "images/SGWT0039/detail-3.jpg",
+        "images/SGWT0039/detail-4.jpg",
+        "images/SGWT0039/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SGWT0029",
+      "sku": "SGWT0029",
+      "name": "条纹休闲针织短裤",
+      "category": "家居服",
+      "price": 84.0,
+      "summary": "175 / 180 / 185，混色（灰白条）。",
+      "description": "条纹休闲针织短裤，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "175 / 180 / 185",
+        "颜色": "混色（灰白条）",
+        "材质": "有机棉",
+        "货号": "SGWT0029"
+      },
+      "images": [
+        "images/SGWT0029/main.jpg",
+        "images/SGWT0029/detail-1.jpg",
+        "images/SGWT0029/detail-2.jpg",
+        "images/SGWT0029/detail-3.jpg",
+        "images/SGWT0029/detail-4.jpg",
+        "images/SGWT0029/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SGWT0022",
+      "sku": "SGWT0022",
+      "name": "女士短袖家居服套装（灰）",
+      "category": "家居服",
+      "price": 146.0,
+      "summary": "160，灰色。",
+      "description": "女士短袖家居服套装（灰），素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "160",
+        "颜色": "灰色",
+        "材质": "有机棉",
+        "货号": "SGWT0022"
+      },
+      "images": [
+        "images/SGWT0022/main.jpg",
+        "images/SGWT0022/detail-1.jpg",
+        "images/SGWT0022/detail-2.jpg",
+        "images/SGWT0022/detail-3.jpg",
+        "images/SGWT0022/detail-4.jpg",
+        "images/SGWT0022/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SGWT0015-F",
+      "sku": "SGWT0015",
+      "name": "女士家居服套装",
+      "category": "家居服",
+      "price": 224.0,
+      "summary": "160 – 175（棕色） / 170 – 180（白色），棕色 / 白色。",
+      "description": "女士家居服套装，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "160 – 175（棕色） / 170 – 180（白色）",
+        "颜色": "棕色 / 白色",
+        "材质": "有机棉",
+        "货号": "SGWT0015"
+      },
+      "images": [
+        "images/SGWT0015-F/main.jpg",
+        "images/SGWT0015-F/detail-1.jpg",
+        "images/SGWT0015-F/detail-2.jpg",
+        "images/SGWT0015-F/detail-3.jpg",
+        "images/SGWT0015-F/detail-4.jpg",
+        "images/SGWT0015-F/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SGWT0015-M",
+      "sku": "SGWT0015",
+      "name": "男士家居服套装",
+      "category": "家居服",
+      "price": 224.0,
+      "summary": "170 / 175 / 180 / 185 / 190，灰条 / 灰色。",
+      "description": "男士家居服套装，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "170 / 175 / 180 / 185 / 190",
+        "颜色": "灰条 / 灰色",
+        "材质": "有机棉",
+        "货号": "SGWT0015"
+      },
+      "images": [
+        "images/SGWT0015-M/main.jpg",
+        "images/SGWT0015-M/detail-1.jpg",
+        "images/SGWT0015-M/detail-2.jpg",
+        "images/SGWT0015-M/detail-3.jpg",
+        "images/SGWT0015-M/detail-4.jpg",
+        "images/SGWT0015-M/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SGWT0033",
+      "sku": "SGWT0033",
+      "name": "男士长袖家居服套装（灰）",
+      "category": "家居服",
+      "price": 151.2,
+      "summary": "175/100 / 180/105 / 185/110，灰色。",
+      "description": "男士长袖家居服套装（灰），素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "175/100 / 180/105 / 185/110",
+        "颜色": "灰色",
+        "材质": "有机棉",
+        "货号": "SGWT0033"
+      },
+      "images": [
+        "images/SGWT0033/main.jpg",
+        "images/SGWT0033/detail-1.jpg",
+        "images/SGWT0033/detail-2.jpg",
+        "images/SGWT0033/detail-3.jpg",
+        "images/SGWT0033/detail-4.jpg",
+        "images/SGWT0033/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SGWT0031",
+      "sku": "SGWT0031",
+      "name": "泡泡纱浴袍",
+      "category": "家居服",
+      "price": 168.0,
+      "summary": "165 / 180，白色。",
+      "description": "泡泡纱浴袍，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "165 / 180",
+        "颜色": "白色",
+        "材质": "有机棉",
+        "货号": "SGWT0031"
+      },
+      "images": [
+        "images/SGWT0031/main.jpg",
+        "images/SGWT0031/detail-1.jpg",
+        "images/SGWT0031/detail-2.jpg",
+        "images/SGWT0031/detail-3.jpg",
+        "images/SGWT0031/detail-4.jpg",
+        "images/SGWT0031/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SGWT0049",
+      "sku": "SGWT0049",
+      "name": "女士家居灯笼裤",
+      "category": "家居服",
+      "price": 123.2,
+      "summary": "155 / 160 / 165 / 170，白色。",
+      "description": "女士家居灯笼裤，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "155 / 160 / 165 / 170",
+        "颜色": "白色",
+        "材质": "有机棉",
+        "货号": "SGWT0049"
+      },
+      "images": [
+        "images/SGWT0049/main.jpg",
+        "images/SGWT0049/detail-1.jpg",
+        "images/SGWT0049/detail-2.jpg",
+        "images/SGWT0049/detail-3.jpg",
+        "images/SGWT0049/detail-4.jpg",
+        "images/SGWT0049/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SGWT0050",
+      "sku": "SGWT0050",
+      "name": "女士家居短袖",
+      "category": "家居服",
+      "price": 98.0,
+      "summary": "155 / 160 / 165 / 170，白色。",
+      "description": "女士家居短袖，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "155 / 160 / 165 / 170",
+        "颜色": "白色",
+        "材质": "有机棉",
+        "货号": "SGWT0050"
+      },
+      "images": [
+        "images/SGWT0050/main.jpg",
+        "images/SGWT0050/detail-1.jpg",
+        "images/SGWT0050/detail-2.jpg",
+        "images/SGWT0050/detail-3.jpg",
+        "images/SGWT0050/detail-4.jpg",
+        "images/SGWT0050/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SGWT0051",
+      "sku": "SGWT0051",
+      "name": "女士家居短裤",
+      "category": "家居服",
+      "price": 70.0,
+      "summary": "155 / 160 / 165 / 170，白色。",
+      "description": "女士家居短裤，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "155 / 160 / 165 / 170",
+        "颜色": "白色",
+        "材质": "有机棉",
+        "货号": "SGWT0051"
+      },
+      "images": [
+        "images/SGWT0051/main.jpg",
+        "images/SGWT0051/detail-1.jpg",
+        "images/SGWT0051/detail-2.jpg",
+        "images/SGWT0051/detail-3.jpg",
+        "images/SGWT0051/detail-4.jpg",
+        "images/SGWT0051/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SGWT0052",
+      "sku": "SGWT0052",
+      "name": "胸垫半袖",
+      "category": "家居服",
+      "price": 72.5,
+      "summary": "155 / 160 / 165 / 170，白色 / 棕色 / 灰色。",
+      "description": "胸垫半袖，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "155 / 160 / 165 / 170",
+        "颜色": "白色 / 棕色 / 灰色",
+        "材质": "有机棉",
+        "货号": "SGWT0052"
+      },
+      "images": [
+        "images/SGWT0052/main.jpg",
+        "images/SGWT0052/detail-1.jpg",
+        "images/SGWT0052/detail-2.jpg",
+        "images/SGWT0052/detail-3.jpg",
+        "images/SGWT0052/detail-4.jpg",
+        "images/SGWT0052/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SGWT0053",
+      "sku": "SGWT0053",
+      "name": "胸垫长袖",
+      "category": "家居服",
+      "price": 82.3,
+      "summary": "155 / 160 / 165 / 170，白色 / 棕色 / 灰色。",
+      "description": "胸垫长袖，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "155 / 160 / 165 / 170",
+        "颜色": "白色 / 棕色 / 灰色",
+        "材质": "有机棉",
+        "货号": "SGWT0053"
+      },
+      "images": [
+        "images/SGWT0053/main.jpg",
+        "images/SGWT0053/detail-1.jpg",
+        "images/SGWT0053/detail-2.jpg",
+        "images/SGWT0053/detail-3.jpg",
+        "images/SGWT0053/detail-4.jpg",
+        "images/SGWT0053/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SBFA0013",
+      "sku": "SBFA0013",
+      "name": "针织 V 领衫",
+      "category": "服装",
+      "price": 112.0,
+      "summary": "160/84 / 165/88 / 170/92 / 175/96，灰白。",
+      "description": "针织 V 领衫，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "160/84 / 165/88 / 170/92 / 175/96",
+        "颜色": "灰白",
+        "材质": "有机棉",
+        "货号": "SBFA0013"
+      },
+      "images": [
+        "images/SBFA0013/main.jpg",
+        "images/SBFA0013/detail-1.jpg",
+        "images/SBFA0013/detail-2.jpg",
+        "images/SBFA0013/detail-3.jpg",
+        "images/SBFA0013/detail-4.jpg",
+        "images/SBFA0013/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SBFA0014",
+      "sku": "SBFA0014",
+      "name": "针织开衫",
+      "category": "服装",
+      "price": 126.0,
+      "summary": "160/84 – 175/96，米白 / 棕色。",
+      "description": "针织开衫，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "160/84 – 175/96",
+        "颜色": "米白 / 棕色",
+        "材质": "有机棉",
+        "货号": "SBFA0014"
+      },
+      "images": [
+        "images/SBFA0014/main.jpg",
+        "images/SBFA0014/detail-1.jpg",
+        "images/SBFA0014/detail-2.jpg",
+        "images/SBFA0014/detail-3.jpg",
+        "images/SBFA0014/detail-4.jpg",
+        "images/SBFA0014/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SBFA0015",
+      "sku": "SBFA0015",
+      "name": "针织背心",
+      "category": "服装",
+      "price": 98.0,
+      "summary": "160/84 / 165/88 / 170/92，米白 / 棕色 / 灰白。",
+      "description": "针织背心，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "160/84 / 165/88 / 170/92",
+        "颜色": "米白 / 棕色 / 灰白",
+        "材质": "有机棉",
+        "货号": "SBFA0015"
+      },
+      "images": [
+        "images/SBFA0015/main.jpg",
+        "images/SBFA0015/detail-1.jpg",
+        "images/SBFA0015/detail-2.jpg",
+        "images/SBFA0015/detail-3.jpg",
+        "images/SBFA0015/detail-4.jpg",
+        "images/SBFA0015/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SBFA0021",
+      "sku": "SBFA0021",
+      "name": "女士针织阔腿长裤",
+      "category": "服装",
+      "price": 168.0,
+      "summary": "160 / 165 / 170，灰色。",
+      "description": "女士针织阔腿长裤，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "160 / 165 / 170",
+        "颜色": "灰色",
+        "材质": "有机棉",
+        "货号": "SBFA0021"
+      },
+      "images": [
+        "images/SBFA0021/main.jpg",
+        "images/SBFA0021/detail-1.jpg",
+        "images/SBFA0021/detail-2.jpg",
+        "images/SBFA0021/detail-3.jpg",
+        "images/SBFA0021/detail-4.jpg",
+        "images/SBFA0021/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SBFA0039",
+      "sku": "SBFA0039",
+      "name": "女士针织直筒长裤",
+      "category": "服装",
+      "price": 154.0,
+      "summary": "155 / 160 / 165 / 170，棕色。",
+      "description": "女士针织直筒长裤，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "155 / 160 / 165 / 170",
+        "颜色": "棕色",
+        "材质": "有机棉",
+        "货号": "SBFA0039"
+      },
+      "images": [
+        "images/SBFA0039/main.jpg",
+        "images/SBFA0039/detail-1.jpg",
+        "images/SBFA0039/detail-2.jpg",
+        "images/SBFA0039/detail-3.jpg",
+        "images/SBFA0039/detail-4.jpg",
+        "images/SBFA0039/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SBFA0018",
+      "sku": "SBFA0018",
+      "name": "针织裙",
+      "category": "服装",
+      "price": 112.0,
+      "summary": "165（均码），棕色。",
+      "description": "针织裙，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "165（均码）",
+        "颜色": "棕色",
+        "材质": "有机棉",
+        "货号": "SBFA0018"
+      },
+      "images": [
+        "images/SBFA0018/main.jpg",
+        "images/SBFA0018/detail-1.jpg",
+        "images/SBFA0018/detail-2.jpg",
+        "images/SBFA0018/detail-3.jpg",
+        "images/SBFA0018/detail-4.jpg",
+        "images/SBFA0018/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SBFA0012",
+      "sku": "SBFA0012",
+      "name": "女式棉服",
+      "category": "服装",
+      "price": 364.0,
+      "summary": "155 / 160 / 165 / 170，灰色（30% 灰）。",
+      "description": "女式棉服，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "155 / 160 / 165 / 170",
+        "颜色": "灰色（30% 灰）",
+        "材质": "有机棉",
+        "货号": "SBFA0012"
+      },
+      "images": [
+        "images/SBFA0012/main.jpg",
+        "images/SBFA0012/detail-1.jpg",
+        "images/SBFA0012/detail-2.jpg",
+        "images/SBFA0012/detail-3.jpg",
+        "images/SBFA0012/detail-4.jpg",
+        "images/SBFA0012/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SBMA0026",
+      "sku": "SBMA0026",
+      "name": "男式棉服",
+      "category": "服装",
+      "price": 364.0,
+      "summary": "170 / 175 / 180 / 185，灰色（50% 灰）。",
+      "description": "男式棉服，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "170 / 175 / 180 / 185",
+        "颜色": "灰色（50% 灰）",
+        "材质": "有机棉",
+        "货号": "SBMA0026"
+      },
+      "images": [
+        "images/SBMA0026/main.jpg",
+        "images/SBMA0026/detail-1.jpg",
+        "images/SBMA0026/detail-2.jpg",
+        "images/SBMA0026/detail-3.jpg",
+        "images/SBMA0026/detail-4.jpg",
+        "images/SBMA0026/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SMFA0002",
+      "sku": "SMFA0002",
+      "name": "棉马甲",
+      "category": "服装",
+      "price": 252.0,
+      "summary": "160 / 165 / 170 / 175 / 180，棕色。",
+      "description": "棉马甲，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "160 / 165 / 170 / 175 / 180",
+        "颜色": "棕色",
+        "材质": "有机棉",
+        "货号": "SMFA0002"
+      },
+      "images": [
+        "images/SMFA0002/main.jpg",
+        "images/SMFA0002/detail-1.jpg",
+        "images/SMFA0002/detail-2.jpg",
+        "images/SMFA0002/detail-3.jpg",
+        "images/SMFA0002/detail-4.jpg",
+        "images/SMFA0002/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SMFA0001",
+      "sku": "SMFA0001",
+      "name": "休闲简约外套",
+      "category": "服装",
+      "price": 168.0,
+      "summary": "160 / 165 / 170 / 175，白色。",
+      "description": "休闲简约外套，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "160 / 165 / 170 / 175",
+        "颜色": "白色",
+        "材质": "有机棉",
+        "货号": "SMFA0001"
+      },
+      "images": [
+        "images/SMFA0001/main.jpg",
+        "images/SMFA0001/detail-1.jpg",
+        "images/SMFA0001/detail-2.jpg",
+        "images/SMFA0001/detail-3.jpg",
+        "images/SMFA0001/detail-4.jpg",
+        "images/SMFA0001/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SFXA0005",
+      "sku": "SFXA0005",
+      "name": "儿童背心",
+      "category": "童装",
+      "price": 42.4,
+      "summary": "100 – 150，棕色 / 白色。",
+      "description": "儿童背心，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "100 – 150",
+        "颜色": "棕色 / 白色",
+        "材质": "有机棉",
+        "货号": "SFXA0005"
+      },
+      "images": [
+        "images/SFXA0005/main.jpg",
+        "images/SFXA0005/detail-1.jpg",
+        "images/SFXA0005/detail-2.jpg",
+        "images/SFXA0005/detail-3.jpg",
+        "images/SFXA0005/detail-4.jpg",
+        "images/SFXA0005/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SFQC0010",
+      "sku": "SFQC0010",
+      "name": "儿童家居服",
+      "category": "童装",
+      "price": 121.1,
+      "summary": "120 – 150（棕色） / 120 – 160（灰色），棕色 / 灰色。",
+      "description": "儿童家居服，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "120 – 150（棕色） / 120 – 160（灰色）",
+        "颜色": "棕色 / 灰色",
+        "材质": "有机棉",
+        "货号": "SFQC0010"
+      },
+      "images": [
+        "images/SFQC0010/main.jpg",
+        "images/SFQC0010/detail-1.jpg",
+        "images/SFQC0010/detail-2.jpg",
+        "images/SFQC0010/detail-3.jpg",
+        "images/SFQC0010/detail-4.jpg",
+        "images/SFQC0010/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SBME0004",
+      "sku": "SBME0004",
+      "name": "男童内裤（2 条，平角）",
+      "category": "童装",
+      "price": 52.0,
+      "summary": "100 / 110 / 120 / 130，混色。",
+      "description": "男童内裤（2 条，平角），素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "100 / 110 / 120 / 130",
+        "颜色": "混色",
+        "材质": "有机棉",
+        "货号": "SBME0004"
+      },
+      "images": [
+        "images/SBME0004/main.jpg",
+        "images/SBME0004/detail-1.jpg",
+        "images/SBME0004/detail-2.jpg",
+        "images/SBME0004/detail-3.jpg",
+        "images/SBME0004/detail-4.jpg",
+        "images/SBME0004/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SBME0016",
+      "sku": "SBME0016",
+      "name": "男大童内裤（平角）",
+      "category": "童装",
+      "price": 37.6,
+      "summary": "140 / 150 / 160，混色。",
+      "description": "男大童内裤（平角），素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "140 / 150 / 160",
+        "颜色": "混色",
+        "材质": "有机棉",
+        "货号": "SBME0016"
+      },
+      "images": [
+        "images/SBME0016/main.jpg",
+        "images/SBME0016/detail-1.jpg",
+        "images/SBME0016/detail-2.jpg",
+        "images/SBME0016/detail-3.jpg",
+        "images/SBME0016/detail-4.jpg",
+        "images/SBME0016/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SBFE0007",
+      "sku": "SBFE0007",
+      "name": "女童内裤（2 条，平角）",
+      "category": "童装",
+      "price": 52.0,
+      "summary": "100 / 110 / 120 / 130，混色。",
+      "description": "女童内裤（2 条，平角），素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "100 / 110 / 120 / 130",
+        "颜色": "混色",
+        "材质": "有机棉",
+        "货号": "SBFE0007"
+      },
+      "images": [
+        "images/SBFE0007/main.jpg",
+        "images/SBFE0007/detail-1.jpg",
+        "images/SBFE0007/detail-2.jpg",
+        "images/SBFE0007/detail-3.jpg",
+        "images/SBFE0007/detail-4.jpg",
+        "images/SBFE0007/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SBFE0031",
+      "sku": "SBFE0031",
+      "name": "女大童内裤",
+      "category": "童装",
+      "price": 37.6,
+      "summary": "140 / 150，混色。",
+      "description": "女大童内裤，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "140 / 150",
+        "颜色": "混色",
+        "材质": "有机棉",
+        "货号": "SBFE0031"
+      },
+      "images": [
+        "images/SBFE0031/main.jpg",
+        "images/SBFE0031/detail-1.jpg",
+        "images/SBFE0031/detail-2.jpg",
+        "images/SBFE0031/detail-3.jpg",
+        "images/SBFE0031/detail-4.jpg",
+        "images/SBFE0031/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SFQA0008",
+      "sku": "SFQA0008",
+      "name": "儿童针织衫",
+      "category": "童装",
+      "price": 95.4,
+      "summary": "100 – 150，棕色 / 白色。",
+      "description": "儿童针织衫，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "100 – 150",
+        "颜色": "棕色 / 白色",
+        "材质": "有机棉",
+        "货号": "SFQA0008"
+      },
+      "images": [
+        "images/SFQA0008/main.jpg",
+        "images/SFQA0008/detail-1.jpg",
+        "images/SFQA0008/detail-2.jpg",
+        "images/SFQA0008/detail-3.jpg",
+        "images/SFQA0008/detail-4.jpg",
+        "images/SFQA0008/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SBFE0014",
+      "sku": "SBFE0014",
+      "name": "中童内衣套装",
+      "category": "童装",
+      "price": 107.3,
+      "summary": "90 / 100 / 110 / 120，混色 / 混色（10% 灰） / 混色（彩条，薄款）。",
+      "description": "中童内衣套装，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "90 / 100 / 110 / 120",
+        "颜色": "混色 / 混色（10% 灰） / 混色（彩条，薄款）",
+        "材质": "有机棉",
+        "货号": "SBFE0014"
+      },
+      "images": [
+        "images/SBFE0014/main.jpg",
+        "images/SBFE0014/detail-1.jpg",
+        "images/SBFE0014/detail-2.jpg",
+        "images/SBFE0014/detail-3.jpg",
+        "images/SBFE0014/detail-4.jpg",
+        "images/SBFE0014/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SBFE0015",
+      "sku": "SBFE0015",
+      "name": "大童内衣套装",
+      "category": "童装",
+      "price": 121.1,
+      "summary": "130 / 140 / 150，混色 / 混色（10% 灰）。",
+      "description": "大童内衣套装，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "130 / 140 / 150",
+        "颜色": "混色 / 混色（10% 灰）",
+        "材质": "有机棉",
+        "货号": "SBFE0015"
+      },
+      "images": [
+        "images/SBFE0015/main.jpg",
+        "images/SBFE0015/detail-1.jpg",
+        "images/SBFE0015/detail-2.jpg",
+        "images/SBFE0015/detail-3.jpg",
+        "images/SBFE0015/detail-4.jpg",
+        "images/SBFE0015/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SFXA0020",
+      "sku": "SFXA0020",
+      "name": "儿童针织 T 恤衫（九叠篆）",
+      "category": "童装",
+      "price": 61.6,
+      "summary": "120 / 130 / 140 / 150，白色（九叠篆）。",
+      "description": "儿童针织 T 恤衫（九叠篆），素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "120 / 130 / 140 / 150",
+        "颜色": "白色（九叠篆）",
+        "材质": "有机棉",
+        "货号": "SFXA0020"
+      },
+      "images": [
+        "images/SFXA0020/main.jpg",
+        "images/SFXA0020/detail-1.jpg",
+        "images/SFXA0020/detail-2.jpg",
+        "images/SFXA0020/detail-3.jpg",
+        "images/SFXA0020/detail-4.jpg",
+        "images/SFXA0020/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SFXA0021",
+      "sku": "SFXA0021",
+      "name": "儿童针织 T 恤衫（青绿山水）",
+      "category": "童装",
+      "price": 61.6,
+      "summary": "110 / 120 / 150，白色（青绿山水）。",
+      "description": "儿童针织 T 恤衫（青绿山水），素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "110 / 120 / 150",
+        "颜色": "白色（青绿山水）",
+        "材质": "有机棉",
+        "货号": "SFXA0021"
+      },
+      "images": [
+        "images/SFXA0021/main.jpg",
+        "images/SFXA0021/detail-1.jpg",
+        "images/SFXA0021/detail-2.jpg",
+        "images/SFXA0021/detail-3.jpg",
+        "images/SFXA0021/detail-4.jpg",
+        "images/SFXA0021/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SFQA0010",
+      "sku": "SFQA0010",
+      "name": "儿童针织帽衫",
+      "category": "童装",
+      "price": 165.1,
+      "summary": "120 / 130 / 140 / 150，灰色。",
+      "description": "儿童针织帽衫，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "120 / 130 / 140 / 150",
+        "颜色": "灰色",
+        "材质": "有机棉",
+        "货号": "SFQA0010"
+      },
+      "images": [
+        "images/SFQA0010/main.jpg",
+        "images/SFQA0010/detail-1.jpg",
+        "images/SFQA0010/detail-2.jpg",
+        "images/SFQA0010/detail-3.jpg",
+        "images/SFQA0010/detail-4.jpg",
+        "images/SFQA0010/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SFQA0021",
+      "sku": "SFQA0021",
+      "name": "儿童条纹长袖",
+      "category": "童装",
+      "price": 80.9,
+      "summary": "90 – 130，混色（棕条）。",
+      "description": "儿童条纹长袖，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "90 – 130",
+        "颜色": "混色（棕条）",
+        "材质": "有机棉",
+        "货号": "SFQA0021"
+      },
+      "images": [
+        "images/SFQA0021/main.jpg",
+        "images/SFQA0021/detail-1.jpg",
+        "images/SFQA0021/detail-2.jpg",
+        "images/SFQA0021/detail-3.jpg",
+        "images/SFQA0021/detail-4.jpg",
+        "images/SFQA0021/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SFQB0007",
+      "sku": "SFQB0007",
+      "name": "儿童防蚊裤",
+      "category": "童装",
+      "price": 61.6,
+      "summary": "80 – 130，棕色。",
+      "description": "儿童防蚊裤，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "80 – 130",
+        "颜色": "棕色",
+        "材质": "有机棉",
+        "货号": "SFQB0007"
+      },
+      "images": [
+        "images/SFQB0007/main.jpg",
+        "images/SFQB0007/detail-1.jpg",
+        "images/SFQB0007/detail-2.jpg",
+        "images/SFQB0007/detail-3.jpg"
+      ]
+    },
+    {
+      "id": "SFXB0004",
+      "sku": "SFXB0004",
+      "name": "儿童短裤",
+      "category": "童装",
+      "price": 47.2,
+      "summary": "80 / 90 / 100 / 110，棕色。",
+      "description": "儿童短裤，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "80 / 90 / 100 / 110",
+        "颜色": "棕色",
+        "材质": "有机棉",
+        "货号": "SFXB0004"
+      },
+      "images": [
+        "images/SFXB0004/main.jpg",
+        "images/SFXB0004/detail-1.jpg",
+        "images/SFXB0004/detail-2.jpg",
+        "images/SFXB0004/detail-3.jpg",
+        "images/SFXB0004/detail-4.jpg",
+        "images/SFXB0004/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SAB0011",
+      "sku": "SAB0011",
+      "name": "宝宝十件套",
+      "category": "婴童用品",
+      "price": 275.2,
+      "summary": "均码，混色。",
+      "description": "宝宝十件套，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "均码",
+        "颜色": "混色",
+        "材质": "有机棉",
+        "货号": "SAB0011"
+      },
+      "images": [
+        "images/SAB0011/main.jpg",
+        "images/SAB0011/detail-1.jpg",
+        "images/SAB0011/detail-2.jpg",
+        "images/SAB0011/detail-3.jpg"
+      ]
+    },
+    {
+      "id": "SBCH0010",
+      "sku": "SBCH0010",
+      "name": "儿童枕头",
+      "category": "婴童用品",
+      "price": 42.4,
+      "summary": "25 × 50 cm，混色。",
+      "description": "儿童枕头，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "25 × 50 cm",
+        "颜色": "混色",
+        "材质": "有机棉",
+        "货号": "SBCH0010"
+      },
+      "images": [
+        "images/SBCH0010/main.jpg",
+        "images/SBCH0010/detail-1.jpg",
+        "images/SBCH0010/detail-2.jpg",
+        "images/SBCH0010/detail-3.jpg",
+        "images/SBCH0010/detail-4.jpg",
+        "images/SBCH0010/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SBCH0014",
+      "sku": "SBCH0014",
+      "name": "儿童睡袋",
+      "category": "婴童用品",
+      "price": 143.5,
+      "summary": "74 × 47 cm，混色。",
+      "description": "儿童睡袋，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "74 × 47 cm",
+        "颜色": "混色",
+        "材质": "有机棉",
+        "货号": "SBCH0014"
+      },
+      "images": [
+        "images/SBCH0014/main.jpg",
+        "images/SBCH0014/detail-1.jpg",
+        "images/SBCH0014/detail-2.jpg",
+        "images/SBCH0014/detail-3.jpg",
+        "images/SBCH0014/detail-4.jpg",
+        "images/SBCH0014/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SBCH0013",
+      "sku": "SBCH0013",
+      "name": "纱布抱毯",
+      "category": "婴童用品",
+      "price": 143.5,
+      "summary": "120 × 120 cm，混色。",
+      "description": "纱布抱毯，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "120 × 120 cm",
+        "颜色": "混色",
+        "材质": "有机棉",
+        "货号": "SBCH0013"
+      },
+      "images": [
+        "images/SBCH0013/main.jpg",
+        "images/SBCH0013/detail-1.jpg",
+        "images/SBCH0013/detail-2.jpg",
+        "images/SBCH0013/detail-3.jpg",
+        "images/SBCH0013/detail-4.jpg",
+        "images/SBCH0013/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SBCH0004",
+      "sku": "SBCH0004",
+      "name": "单面绣花被子",
+      "category": "婴童用品",
+      "price": 165.1,
+      "summary": "110 × 140 cm，混色。",
+      "description": "单面绣花被子，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "110 × 140 cm",
+        "颜色": "混色",
+        "材质": "有机棉",
+        "货号": "SBCH0004"
+      },
+      "images": [
+        "images/SBCH0004/main.jpg",
+        "images/SBCH0004/detail-1.jpg",
+        "images/SBCH0004/detail-2.jpg",
+        "images/SBCH0004/detail-3.jpg",
+        "images/SBCH0004/detail-4.jpg",
+        "images/SBCH0004/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SBCH0012",
+      "sku": "SBCH0012",
+      "name": "绣花被",
+      "category": "婴童用品",
+      "price": 231.2,
+      "summary": "110 × 150 cm，混色（棕白格，填充物 200 g）。",
+      "description": "绣花被，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "110 × 150 cm",
+        "颜色": "混色（棕白格，填充物 200 g）",
+        "材质": "有机棉",
+        "货号": "SBCH0012"
+      },
+      "images": [
+        "images/SBCH0012/main.jpg",
+        "images/SBCH0012/detail-1.jpg"
+      ]
+    },
+    {
+      "id": "SABU0018",
+      "sku": "SABU0018",
+      "name": "儿童被",
+      "category": "婴童用品",
+      "price": 302.7,
+      "summary": "115 × 150 cm，混色（方格）。",
+      "description": "儿童被，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "115 × 150 cm",
+        "颜色": "混色（方格）",
+        "材质": "有机棉",
+        "货号": "SABU0018"
+      },
+      "images": [
+        "images/SABU0018/main.jpg",
+        "images/SABU0018/detail-1.jpg",
+        "images/SABU0018/detail-2.jpg",
+        "images/SABU0018/detail-3.jpg",
+        "images/SABU0018/detail-4.jpg",
+        "images/SABU0018/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SABU0019",
+      "sku": "SABU0019",
+      "name": "夏凉单人被",
+      "category": "床品",
+      "price": 337.1,
+      "summary": "150 × 200 cm，混色（棉桃 / 棋盘格）。",
+      "description": "夏凉单人被，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "150 × 200 cm",
+        "颜色": "混色（棉桃 / 棋盘格）",
+        "材质": "有机棉",
+        "货号": "SABU0019"
+      },
+      "images": [
+        "images/SABU0019/main.jpg",
+        "images/SABU0019/detail-1.jpg"
+      ]
+    },
+    {
+      "id": "SABU0016",
+      "sku": "SABU0016",
+      "name": "夏凉双人被",
+      "category": "床品",
+      "price": 412.8,
+      "summary": "200 × 230 cm，混色（棉桃 / 棋盘格）。",
+      "description": "夏凉双人被，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "200 × 230 cm",
+        "颜色": "混色（棉桃 / 棋盘格）",
+        "材质": "有机棉",
+        "货号": "SABU0016"
+      },
+      "images": [
+        "images/SABU0016/main.jpg",
+        "images/SABU0016/detail-1.jpg",
+        "images/SABU0016/detail-2.jpg"
+      ]
+    },
+    {
+      "id": "SABU0028",
+      "sku": "SABU0028",
+      "name": "针织床品四件套（1.8 m 床）",
+      "category": "床品",
+      "price": 619.2,
+      "summary": "被套 200×230 cm ×1，床单 230×245 cm ×1，枕套 48×74 cm ×2，混色（棋盘格）。",
+      "description": "针织床品四件套（1.8 m 床），素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "被套 200×230 cm ×1，床单 230×245 cm ×1，枕套 48×74 cm ×2",
+        "颜色": "混色（棋盘格）",
+        "材质": "有机棉",
+        "货号": "SABU0028"
+      },
+      "images": [
+        "images/SABU0028/main.jpg",
+        "images/SABU0028/detail-1.jpg",
+        "images/SABU0028/detail-2.jpg",
+        "images/SABU0028/detail-3.jpg",
+        "images/SABU0028/detail-4.jpg",
+        "images/SABU0028/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SABU0034",
+      "sku": "SABU0034",
+      "name": "针织床品四件套（1.5 m 床）",
+      "category": "床品",
+      "price": 550.4,
+      "summary": "被套 155×205 cm ×1，床单 205×235 cm ×1，枕套 48×74 cm ×2，混色（棋盘格）。",
+      "description": "针织床品四件套（1.5 m 床），素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "被套 155×205 cm ×1，床单 205×235 cm ×1，枕套 48×74 cm ×2",
+        "颜色": "混色（棋盘格）",
+        "材质": "有机棉",
+        "货号": "SABU0034"
+      },
+      "images": [
+        "images/SABU0034/main.jpg",
+        "images/SABU0034/detail-1.jpg",
+        "images/SABU0034/detail-2.jpg",
+        "images/SABU0034/detail-3.jpg",
+        "images/SABU0034/detail-4.jpg",
+        "images/SABU0034/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SABU0015",
+      "sku": "SABU0015",
+      "name": "梭织床品四件套（双人）",
+      "category": "床品",
+      "price": 619.2,
+      "summary": "被套 200×230 cm，床单 230×245 cm，枕套 48×74 cm ×2，混色（棋盘格）。",
+      "description": "梭织床品四件套（双人），素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "被套 200×230 cm，床单 230×245 cm，枕套 48×74 cm ×2",
+        "颜色": "混色（棋盘格）",
+        "材质": "有机棉",
+        "货号": "SABU0015"
+      },
+      "images": [
+        "images/SABU0015/main.jpg",
+        "images/SABU0015/detail-1.jpg",
+        "images/SABU0015/detail-2.jpg",
+        "images/SABU0015/detail-3.jpg",
+        "images/SABU0015/detail-4.jpg",
+        "images/SABU0015/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SABU0041",
+      "sku": "SABU0041",
+      "name": "梭织床品四件套（单人）",
+      "category": "床品",
+      "price": 619.2,
+      "summary": "被套 155×205 cm，床单 200×230 cm，枕套 48×74 cm ×2，混色（棋盘格）。",
+      "description": "梭织床品四件套（单人），素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "被套 155×205 cm，床单 200×230 cm，枕套 48×74 cm ×2",
+        "颜色": "混色（棋盘格）",
+        "材质": "有机棉",
+        "货号": "SABU0041"
+      },
+      "images": [
+        "images/SABU0041/main.jpg",
+        "images/SABU0041/detail-1.jpg",
+        "images/SABU0041/detail-2.jpg",
+        "images/SABU0041/detail-3.jpg",
+        "images/SABU0041/detail-4.jpg",
+        "images/SABU0041/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SABU0026",
+      "sku": "SABU0026",
+      "name": "梭织床单",
+      "category": "床品",
+      "price": 247.7,
+      "summary": "230 × 245 cm，混色（棉桃 / 棋盘格）。",
+      "description": "梭织床单，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "230 × 245 cm",
+        "颜色": "混色（棉桃 / 棋盘格）",
+        "材质": "有机棉",
+        "货号": "SABU0026"
+      },
+      "images": [
+        "images/SABU0026/main.jpg",
+        "images/SABU0026/detail-1.jpg",
+        "images/SABU0026/detail-2.jpg",
+        "images/SABU0026/detail-3.jpg",
+        "images/SABU0026/detail-4.jpg",
+        "images/SABU0026/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SABU0021",
+      "sku": "SABU0021",
+      "name": "冬被（单人）",
+      "category": "床品",
+      "price": 522.9,
+      "summary": "150 × 200 cm，混色（棉桃）。",
+      "description": "冬被（单人），素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "150 × 200 cm",
+        "颜色": "混色（棉桃）",
+        "材质": "有机棉",
+        "货号": "SABU0021"
+      },
+      "images": [
+        "images/SABU0021/main.jpg",
+        "images/SABU0021/detail-1.jpg",
+        "images/SABU0021/detail-2.jpg",
+        "images/SABU0021/detail-3.jpg",
+        "images/SABU0021/detail-4.jpg",
+        "images/SABU0021/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SABU0017",
+      "sku": "SABU0017",
+      "name": "冬被（双人）",
+      "category": "床品",
+      "price": 619.2,
+      "summary": "200 × 230 cm，混色（棉桃）。",
+      "description": "冬被（双人），素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "200 × 230 cm",
+        "颜色": "混色（棉桃）",
+        "材质": "有机棉",
+        "货号": "SABU0017"
+      },
+      "images": [
+        "images/SABU0017/main.jpg",
+        "images/SABU0017/detail-1.jpg",
+        "images/SABU0017/detail-2.jpg",
+        "images/SABU0017/detail-3.jpg",
+        "images/SABU0017/detail-4.jpg",
+        "images/SABU0017/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SABU0022",
+      "sku": "SABU0022",
+      "name": "梭织三件套",
+      "category": "床品",
+      "price": 550.4,
+      "summary": "被套 155×205 cm，床单 200×230 cm，枕套 48×74 cm ×1，混色（棉桃）。",
+      "description": "梭织三件套，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "被套 155×205 cm，床单 200×230 cm，枕套 48×74 cm ×1",
+        "颜色": "混色（棉桃）",
+        "材质": "有机棉",
+        "货号": "SABU0022"
+      },
+      "images": [
+        "images/SABU0022/main.jpg"
+      ]
+    },
+    {
+      "id": "SABU0030",
+      "sku": "SABU0030",
+      "name": "棉被（2000 g）",
+      "category": "床品",
+      "price": 522.9,
+      "summary": "200 × 230 cm，白色（填充物 2000 g）。",
+      "description": "棉被（2000 g），素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "200 × 230 cm",
+        "颜色": "白色（填充物 2000 g）",
+        "材质": "有机棉",
+        "货号": "SABU0030"
+      },
+      "images": [
+        "images/SABU0030/main.jpg",
+        "images/SABU0030/detail-1.jpg",
+        "images/SABU0030/detail-2.jpg",
+        "images/SABU0030/detail-3.jpg",
+        "images/SABU0030/detail-4.jpg",
+        "images/SABU0030/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SABU0031",
+      "sku": "SABU0031",
+      "name": "棉被（1500 g）",
+      "category": "床品",
+      "price": 454.1,
+      "summary": "150 × 200 cm，白色（填充物 1500 g）。",
+      "description": "棉被（1500 g），素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "150 × 200 cm",
+        "颜色": "白色（填充物 1500 g）",
+        "材质": "有机棉",
+        "货号": "SABU0031"
+      },
+      "images": [
+        "images/SABU0031/main.jpg",
+        "images/SABU0031/detail-1.jpg",
+        "images/SABU0031/detail-2.jpg",
+        "images/SABU0031/detail-3.jpg",
+        "images/SABU0031/detail-4.jpg",
+        "images/SABU0031/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SABU006",
+      "sku": "SABU006",
+      "name": "旅行卫生睡袋",
+      "category": "床品",
+      "price": 288.0,
+      "summary": "120 × 200 cm，混色（棉桃）。",
+      "description": "旅行卫生睡袋，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "120 × 200 cm",
+        "颜色": "混色（棉桃）",
+        "材质": "有机棉",
+        "货号": "SABU006"
+      },
+      "images": [
+        "images/SABU006/main.jpg",
+        "images/SABU006/detail-1.jpg",
+        "images/SABU006/detail-2.jpg",
+        "images/SABU006/detail-3.jpg",
+        "images/SABU006/detail-4.jpg",
+        "images/SABU006/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SABU0032",
+      "sku": "SABU0032",
+      "name": "枕巾（两件装）",
+      "category": "床品",
+      "price": 95.4,
+      "summary": "52 × 78 cm，混色。",
+      "description": "枕巾（两件装），素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "52 × 78 cm",
+        "颜色": "混色",
+        "材质": "有机棉",
+        "货号": "SABU0032"
+      },
+      "images": [
+        "images/SABU0032/main.jpg",
+        "images/SABU0032/detail-1.jpg",
+        "images/SABU0032/detail-2.jpg",
+        "images/SABU0032/detail-3.jpg",
+        "images/SABU0032/detail-4.jpg",
+        "images/SABU0032/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SABU0035",
+      "sku": "SABU0035",
+      "name": "荞麦壳枕头",
+      "category": "床品",
+      "price": 143.5,
+      "summary": "77 × 50 cm，棕色。",
+      "description": "荞麦壳枕头，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "77 × 50 cm",
+        "颜色": "棕色",
+        "材质": "有机棉",
+        "货号": "SABU0035"
+      },
+      "images": [
+        "images/SABU0035/main.jpg",
+        "images/SABU0035/detail-1.jpg",
+        "images/SABU0035/detail-2.jpg",
+        "images/SABU0035/detail-3.jpg",
+        "images/SABU0035/detail-4.jpg",
+        "images/SABU0035/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SABU0036",
+      "sku": "SABU0036",
+      "name": "粗布床单（200×230）",
+      "category": "床品",
+      "price": 336.2,
+      "summary": "200 × 230 cm，混色（粗纹）。",
+      "description": "粗布床单（200×230），素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "200 × 230 cm",
+        "颜色": "混色（粗纹）",
+        "材质": "有机棉",
+        "货号": "SABU0036"
+      },
+      "images": [
+        "images/SABU0036/main.jpg",
+        "images/SABU0036/detail-1.jpg",
+        "images/SABU0036/detail-2.jpg",
+        "images/SABU0036/detail-3.jpg",
+        "images/SABU0036/detail-4.jpg",
+        "images/SABU0036/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SABU0037",
+      "sku": "SABU0037",
+      "name": "粗布床单（230×245）",
+      "category": "床品",
+      "price": 384.3,
+      "summary": "230 × 245 cm，混色（粗纹）。",
+      "description": "粗布床单（230×245），素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "230 × 245 cm",
+        "颜色": "混色（粗纹）",
+        "材质": "有机棉",
+        "货号": "SABU0037"
+      },
+      "images": [
+        "images/SABU0037/main.jpg",
+        "images/SABU0037/detail-1.jpg",
+        "images/SABU0037/detail-2.jpg",
+        "images/SABU0037/detail-3.jpg",
+        "images/SABU0037/detail-4.jpg",
+        "images/SABU0037/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SABU0038",
+      "sku": "SABU0038",
+      "name": "几何毯",
+      "category": "床品",
+      "price": 288.0,
+      "summary": "150 × 200 cm，混色（几何）。",
+      "description": "几何毯，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "150 × 200 cm",
+        "颜色": "混色（几何）",
+        "材质": "有机棉",
+        "货号": "SABU0038"
+      },
+      "images": [
+        "images/SABU0038/main.jpg"
+      ]
+    },
+    {
+      "id": "SABU0039",
+      "sku": "SABU0039",
+      "name": "记忆棉 U 型枕",
+      "category": "床品",
+      "price": 68.8,
+      "summary": "30 × 30 cm，浅棕 / 混色（彩条）。",
+      "description": "记忆棉 U 型枕，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "30 × 30 cm",
+        "颜色": "浅棕 / 混色（彩条）",
+        "材质": "有机棉",
+        "货号": "SABU0039"
+      },
+      "images": [
+        "images/SABU0039/main.jpg",
+        "images/SABU0039/detail-1.jpg",
+        "images/SABU0039/detail-2.jpg",
+        "images/SABU0039/detail-3.jpg",
+        "images/SABU0039/detail-4.jpg",
+        "images/SABU0039/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SBUI0008",
+      "sku": "SBUI0008",
+      "name": "卷边帽子",
+      "category": "配饰",
+      "price": 68.8,
+      "summary": "60 cm，灰色 / 棕色。",
+      "description": "卷边帽子，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "60 cm",
+        "颜色": "灰色 / 棕色",
+        "材质": "有机棉",
+        "货号": "SBUI0008"
+      },
+      "images": [
+        "images/SBUI0008/main.jpg",
+        "images/SBUI0008/detail-1.jpg",
+        "images/SBUI0008/detail-2.jpg",
+        "images/SBUI0008/detail-3.jpg",
+        "images/SBUI0008/detail-4.jpg",
+        "images/SBUI0008/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SMFA0003",
+      "sku": "SMFA0003",
+      "name": "披肩",
+      "category": "配饰",
+      "price": 143.5,
+      "summary": "180 × 70 cm，灰色 / 白色。",
+      "description": "披肩，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "180 × 70 cm",
+        "颜色": "灰色 / 白色",
+        "材质": "有机棉",
+        "货号": "SMFA0003"
+      },
+      "images": [
+        "images/SMFA0003/main.jpg",
+        "images/SMFA0003/detail-1.jpg",
+        "images/SMFA0003/detail-2.jpg",
+        "images/SMFA0003/detail-3.jpg",
+        "images/SMFA0003/detail-4.jpg",
+        "images/SMFA0003/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SBUI0005",
+      "sku": "SBUI0005",
+      "name": "竖条围巾",
+      "category": "配饰",
+      "price": 110.1,
+      "summary": "80 × 200 cm，混色（灰竖条）。",
+      "description": "竖条围巾，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "80 × 200 cm",
+        "颜色": "混色（灰竖条）",
+        "材质": "有机棉",
+        "货号": "SBUI0005"
+      },
+      "images": [
+        "images/SBUI0005/main.jpg",
+        "images/SBUI0005/detail-1.jpg",
+        "images/SBUI0005/detail-2.jpg",
+        "images/SBUI0005/detail-3.jpg",
+        "images/SBUI0005/detail-4.jpg",
+        "images/SBUI0005/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SBUI0016",
+      "sku": "SBUI0016",
+      "name": "棋盘格围巾",
+      "category": "配饰",
+      "price": 110.1,
+      "summary": "21 × 150 cm，混色（棕白格）。",
+      "description": "棋盘格围巾，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "21 × 150 cm",
+        "颜色": "混色（棕白格）",
+        "材质": "有机棉",
+        "货号": "SBUI0016"
+      },
+      "images": [
+        "images/SBUI0016/main.jpg",
+        "images/SBUI0016/detail-1.jpg",
+        "images/SBUI0016/detail-2.jpg",
+        "images/SBUI0016/detail-3.jpg",
+        "images/SBUI0016/detail-4.jpg",
+        "images/SBUI0016/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SBUI0010",
+      "sku": "SBUI0010",
+      "name": "成人口罩",
+      "category": "配饰",
+      "price": 14.0,
+      "summary": "均码，混色。",
+      "description": "成人口罩，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "均码",
+        "颜色": "混色",
+        "材质": "有机棉",
+        "货号": "SBUI0010"
+      },
+      "images": [
+        "images/SBUI0010/main.jpg",
+        "images/SBUI0010/detail-1.jpg",
+        "images/SBUI0010/detail-2.jpg",
+        "images/SBUI0010/detail-3.jpg",
+        "images/SBUI0010/detail-4.jpg",
+        "images/SBUI0010/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SBUI0020",
+      "sku": "SBUI0020",
+      "name": "成人口罩（薄款）",
+      "category": "配饰",
+      "price": 14.0,
+      "summary": "均码，棕色。",
+      "description": "成人口罩（薄款），素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "均码",
+        "颜色": "棕色",
+        "材质": "有机棉",
+        "货号": "SBUI0020"
+      },
+      "images": [
+        "images/SBUI0020/main.jpg",
+        "images/SBUI0020/detail-1.jpg",
+        "images/SBUI0020/detail-2.jpg",
+        "images/SBUI0020/detail-3.jpg",
+        "images/SBUI0020/detail-4.jpg",
+        "images/SBUI0020/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SFQD0007",
+      "sku": "SFQD0007",
+      "name": "儿童口罩",
+      "category": "配饰",
+      "price": 12.5,
+      "summary": "均码，混色。",
+      "description": "儿童口罩，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "均码",
+        "颜色": "混色",
+        "材质": "有机棉",
+        "货号": "SFQD0007"
+      },
+      "images": [
+        "images/SFQD0007/main.jpg",
+        "images/SFQD0007/detail-1.jpg",
+        "images/SFQD0007/detail-2.jpg",
+        "images/SFQD0007/detail-3.jpg",
+        "images/SFQD0007/detail-4.jpg",
+        "images/SFQD0007/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SABU001",
+      "sku": "SABU001",
+      "name": "可洗素面拖鞋",
+      "category": "配饰",
+      "price": 47.2,
+      "summary": "38/39，棕色。",
+      "description": "可洗素面拖鞋，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "38/39",
+        "颜色": "棕色",
+        "材质": "有机棉",
+        "货号": "SABU001"
+      },
+      "images": [
+        "images/SABU001/main.jpg",
+        "images/SABU001/detail-1.jpg",
+        "images/SABU001/detail-2.jpg",
+        "images/SABU001/detail-3.jpg",
+        "images/SABU001/detail-4.jpg",
+        "images/SABU001/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SABU002",
+      "sku": "SABU002",
+      "name": "可洗条纹拖鞋",
+      "category": "配饰",
+      "price": 47.2,
+      "summary": "42/43，灰白条。",
+      "description": "可洗条纹拖鞋，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "42/43",
+        "颜色": "灰白条",
+        "材质": "有机棉",
+        "货号": "SABU002"
+      },
+      "images": [
+        "images/SABU002/main.jpg",
+        "images/SABU002/detail-1.jpg",
+        "images/SABU002/detail-2.jpg",
+        "images/SABU002/detail-3.jpg",
+        "images/SABU002/detail-4.jpg",
+        "images/SABU002/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SABU029",
+      "sku": "SABU029",
+      "name": "背提包（帆布包）",
+      "category": "配饰",
+      "price": 110.1,
+      "summary": "37 × 31 × 8 cm，米白（九色鹿 / 沙漠）。",
+      "description": "背提包（帆布包），素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "37 × 31 × 8 cm",
+        "颜色": "米白（九色鹿 / 沙漠）",
+        "材质": "有机棉",
+        "货号": "SABU029"
+      },
+      "images": [
+        "images/SABU029/main.jpg",
+        "images/SABU029/detail-1.jpg",
+        "images/SABU029/detail-2.jpg",
+        "images/SABU029/detail-3.jpg",
+        "images/SABU029/detail-4.jpg",
+        "images/SABU029/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SNUD0001",
+      "sku": "SNUD0001",
+      "name": "帆布包",
+      "category": "配饰",
+      "price": 68.8,
+      "summary": "44 × 34 × 10 cm，白色。",
+      "description": "帆布包，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "44 × 34 × 10 cm",
+        "颜色": "白色",
+        "材质": "有机棉",
+        "货号": "SNUD0001"
+      },
+      "images": [
+        "images/SNUD0001/main.jpg",
+        "images/SNUD0001/detail-1.jpg",
+        "images/SNUD0001/detail-2.jpg",
+        "images/SNUD0001/detail-3.jpg",
+        "images/SNUD0001/detail-4.jpg",
+        "images/SNUD0001/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SABU099",
+      "sku": "SABU099",
+      "name": "帆布围裙",
+      "category": "配饰",
+      "price": 110.1,
+      "summary": "67 × 72 cm，棕色。",
+      "description": "帆布围裙，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "67 × 72 cm",
+        "颜色": "棕色",
+        "材质": "有机棉",
+        "货号": "SABU099"
+      },
+      "images": [
+        "images/SABU099/main.jpg",
+        "images/SABU099/detail-1.jpg",
+        "images/SABU099/detail-2.jpg",
+        "images/SABU099/detail-3.jpg"
+      ]
+    },
+    {
+      "id": "SBCC0038",
+      "sku": "SBCC0038",
+      "name": "素道玩偶",
+      "category": "玩偶",
+      "price": 68.8,
+      "summary": "25 – 30 cm，熊猫 / 棕小牛 / 老虎 / 兔子 / 龙。",
+      "description": "素道玩偶，素道有机棉系列，柔软亲肤、透气舒适。",
+      "specs": {
+        "规格": "25 – 30 cm",
+        "颜色": "熊猫 / 棕小牛 / 老虎 / 兔子 / 龙",
+        "材质": "有机棉",
+        "货号": "SBCC0038"
+      },
+      "images": [
+        "images/SBCC0038/main.jpg",
+        "images/SBCC0038/detail-1.jpg",
+        "images/SBCC0038/detail-2.jpg",
+        "images/SBCC0038/detail-3.jpg",
+        "images/SBCC0038/detail-4.jpg",
+        "images/SBCC0038/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SDRJ0011",
+      "sku": "SDRJ0011",
+      "name": "彩棉柔巾三连包",
+      "category": "个护清洁",
+      "price": 42.8,
+      "summary": "200M*200M，绿色。",
+      "description": "素道彩棉柔巾三连包，规格 200M*200M。",
+      "specs": {
+        "规格": "200M*200M",
+        "颜色": "绿色",
+        "货号": "SDRJ0011"
+      },
+      "images": [
+        "images/SDRJ0011/main.jpg",
+        "images/SDRJ0011/detail-1.jpg",
+        "images/SDRJ0011/detail-2.jpg",
+        "images/SDRJ0011/detail-3.jpg",
+        "images/SDRJ0011/detail-4.jpg",
+        "images/SDRJ0011/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SDRJ0008",
+      "sku": "SDRJ0008",
+      "name": "绿棉压缩面膜",
+      "category": "个护清洁",
+      "price": 14.3,
+      "summary": "19 × 23 cm，绿色。",
+      "description": "素道绿棉压缩面膜，规格 19 × 23 cm。",
+      "specs": {
+        "规格": "19 × 23 cm",
+        "颜色": "绿色",
+        "货号": "SDRJ0008"
+      },
+      "images": [
+        "images/SDRJ0008/main.jpg",
+        "images/SDRJ0008/detail-1.jpg",
+        "images/SDRJ0008/detail-2.jpg",
+        "images/SDRJ0008/detail-3.jpg",
+        "images/SDRJ0008/detail-4.jpg",
+        "images/SDRJ0008/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SDRJ0014",
+      "sku": "SDRJ0014",
+      "name": "天然彩棉便携浴巾",
+      "category": "个护清洁",
+      "price": 14.7,
+      "summary": "68 × 110 cm / 1 条，绿色。",
+      "description": "素道天然彩棉便携浴巾，规格 68 × 110 cm / 1 条。",
+      "specs": {
+        "规格": "68 × 110 cm / 1 条",
+        "颜色": "绿色",
+        "货号": "SDRJ0014"
+      },
+      "images": [
+        "images/SDRJ0014/main.jpg",
+        "images/SDRJ0014/detail-1.jpg",
+        "images/SDRJ0014/detail-2.jpg",
+        "images/SDRJ0014/detail-3.jpg",
+        "images/SDRJ0014/detail-4.jpg",
+        "images/SDRJ0014/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SDRJ0013",
+      "sku": "SDRJ0013",
+      "name": "天然彩棉压缩方巾",
+      "category": "个护清洁",
+      "price": 19.9,
+      "summary": "30 × 30 cm / 10 粒，绿色。",
+      "description": "素道天然彩棉压缩方巾，规格 30 × 30 cm / 10 粒。",
+      "specs": {
+        "规格": "30 × 30 cm / 10 粒",
+        "颜色": "绿色",
+        "货号": "SDRJ0013"
+      },
+      "images": [
+        "images/SDRJ0013/main.jpg",
+        "images/SDRJ0013/detail-1.jpg",
+        "images/SDRJ0013/detail-2.jpg",
+        "images/SDRJ0013/detail-3.jpg",
+        "images/SDRJ0013/detail-4.jpg",
+        "images/SDRJ0013/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SDWS0001",
+      "sku": "SDWS0001",
+      "name": "素道牌卫生巾（日用）",
+      "category": "个护清洁",
+      "price": 10.4,
+      "summary": "240 mm / 8 片 棉柔日用。",
+      "description": "素道素道牌卫生巾（日用），规格 240 mm / 8 片 棉柔日用。",
+      "specs": {
+        "规格": "240 mm / 8 片 棉柔日用",
+        "货号": "SDWS0001"
+      },
+      "images": [
+        "images/SDWS0001/main.jpg",
+        "images/SDWS0001/detail-1.jpg",
+        "images/SDWS0001/detail-2.jpg",
+        "images/SDWS0001/detail-3.jpg",
+        "images/SDWS0001/detail-4.jpg",
+        "images/SDWS0001/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SDWS0002",
+      "sku": "SDWS0002",
+      "name": "素道牌卫生巾（夜用）",
+      "category": "个护清洁",
+      "price": 6.7,
+      "summary": "420 mm / 3 片 棉柔夜用。",
+      "description": "素道素道牌卫生巾（夜用），规格 420 mm / 3 片 棉柔夜用。",
+      "specs": {
+        "规格": "420 mm / 3 片 棉柔夜用",
+        "货号": "SDWS0002"
+      },
+      "images": [
+        "images/SDWS0002/main.jpg",
+        "images/SDWS0002/detail-1.jpg",
+        "images/SDWS0002/detail-2.jpg",
+        "images/SDWS0002/detail-3.jpg",
+        "images/SDWS0002/detail-4.jpg",
+        "images/SDWS0002/detail-5.jpg"
+      ]
+    },
+    {
+      "id": "SDXY0001",
+      "sku": "SDXY0001",
+      "name": "净澈洗衣液",
+      "category": "个护清洁",
+      "price": 35.6,
+      "summary": "2 L。",
+      "description": "素道净澈洗衣液，规格 2 L。",
+      "specs": {
+        "规格": "2 L",
+        "货号": "SDXY0001"
+      },
+      "images": [
+        "images/SDXY0001/main.jpg",
+        "images/SDXY0001/detail-1.jpg",
+        "images/SDXY0001/detail-2.jpg",
+        "images/SDXY0001/detail-3.jpg",
+        "images/SDXY0001/detail-4.jpg",
+        "images/SDXY0001/detail-5.jpg"
+      ]
     }
   ]
 }
