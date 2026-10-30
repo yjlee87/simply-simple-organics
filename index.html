@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>产品目录</title>
+  <meta name="description" content="产品价格、介绍与细节图">
+  <link rel="stylesheet" href="catalog.css">
+</head>
+<body>
+  <header class="top">
+    <div class="wrap">
+      <h1 id="storeName">产品目录</h1>
+      <p id="storeTagline" class="tagline"></p>
+      <div class="tools">
+        <input id="search" type="search" placeholder="搜索产品名称、介绍…" autocomplete="off">
+        <select id="sort" aria-label="排序">
+          <option value="default">默认排序</option>
+          <option value="price-asc">价格从低到高</option>
+          <option value="price-desc">价格从高到低</option>
+        </select>
+      </div>
+      <nav id="cats" class="cats" aria-label="分类"></nav>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <p id="count" class="count"></p>
+    <ul id="grid" class="grid"></ul>
+    <p id="empty" class="empty" hidden>没有找到符合条件的产品。</p>
+  </main>
+
+  <footer class="wrap foot"><p id="storeNote"></p></footer>
+
+  <!-- 产品详情 -->
+  <dialog id="detail" class="detail" aria-labelledby="dName">
+    <button class="close" data-close aria-label="关闭">×</button>
+    <div class="detail-body">
+      <section class="gallery">
+        <button id="mainImgBtn" class="main-img" aria-label="放大查看">
+          <img id="mainImg" alt="">
+        </button>
+        <div id="thumbs" class="thumbs"></div>
+      </section>
+      <section class="info">
+        <p id="dCat" class="d-cat"></p>
+        <h2 id="dName"></h2>
+        <p class="d-price"><span id="dPrice"></span> <s id="dOrig"></s></p>
+        <p id="dSummary" class="d-summary"></p>
+        <p id="dDesc" class="d-desc"></p>
+        <table id="dSpecs" class="specs"></table>
+        <div class="actions">
+          <a id="dAsk" class="btn primary" target="_blank" rel="noopener">WhatsApp 询问</a>
+          <button id="dShare" class="btn">复制链接</button>
+        </div>
+      </section>
+    </div>
+  </dialog>
+
+  <!-- 图片放大 -->
+  <dialog id="zoom" class="zoom">
+    <img id="zoomImg" alt="">
+    <button class="close" data-close aria-label="关闭">×</button>
+    <button class="nav prev" id="zPrev" aria-label="上一张">‹</button>
+    <button class="nav next" id="zNext" aria-label="下一张">›</button>
+  </dialog>
+
+  <script src="catalog.js"></script>
+</body>
+</html>

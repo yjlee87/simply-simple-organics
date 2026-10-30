@@ -1,0 +1,75 @@
+{
+  "store": {
+    "name": "Simply Simple Organics",
+    "tagline": "产品目录 · 价格随时更新",
+    "currency": "RM",
+    "whatsapp": "60123456789",
+    "note": "价格以下单时为准。图片仅供参考。"
+  },
+  "products": [
+    {
+      "id": "sku-001",
+      "name": "陶瓷马克杯",
+      "category": "厨房餐具",
+      "price": 39.9,
+      "summary": "手工上釉，每只纹理都不一样。",
+      "description": "高温烧制的炻器马克杯，杯口加厚，喝起来不烫嘴。釉色为手工浸釉，每一只的流釉纹理都略有不同。可放入洗碗机和微波炉。",
+      "specs": { "容量": "350 ml", "尺寸": "Ø 8.5 × 9.5 cm", "材质": "炻器", "产地": "马来西亚" },
+      "images": ["images/sku-001/main.svg", "images/sku-001/detail-1.svg", "images/sku-001/detail-2.svg", "images/sku-001/detail-3.svg"],
+      "tags": ["新品"]
+    },
+    {
+      "id": "sku-002",
+      "name": "帆布托特包",
+      "category": "包袋",
+      "price": 59,
+      "summary": "12 安重磅帆布，装得下 15 寸电脑。",
+      "description": "加厚帆布，内侧有一个拉链小袋和一个手机袋。肩带加长，冬天穿外套也能单肩背。",
+      "specs": { "尺寸": "40 × 36 × 12 cm", "材质": "12 oz 棉帆布", "颜色": "蓝 / 米白" },
+      "images": ["images/sku-002/main.svg", "images/sku-002/detail-1.svg", "images/sku-002/detail-2.svg"]
+    },
+    {
+      "id": "sku-003",
+      "name": "竹制砧板",
+      "category": "厨房餐具",
+      "price": 45,
+      "originalPrice": 55,
+      "summary": "整块竹材压制，不易开裂。",
+      "description": "边缘带导流槽，切水果汁水不会流到台面。两面可用，一面切生食一面切熟食。",
+      "specs": { "尺寸": "38 × 26 × 1.8 cm", "材质": "楠竹", "保养": "手洗，避免长时间浸泡" },
+      "images": ["images/sku-003/main.svg", "images/sku-003/detail-1.svg", "images/sku-003/detail-2.svg"],
+      "tags": ["特价"]
+    },
+    {
+      "id": "sku-004",
+      "name": "香薰蜡烛",
+      "category": "家居",
+      "price": 68,
+      "summary": "大豆蜡，燃烧约 40 小时。",
+      "description": "天然大豆蜡搭配木质烛芯，点燃时有轻微的噼啪声。香调：雪松、无花果叶。",
+      "specs": { "净重": "200 g", "燃烧时间": "约 40 小时", "香调": "雪松 / 无花果叶" },
+      "images": ["images/sku-004/main.svg", "images/sku-004/detail-1.svg"]
+    },
+    {
+      "id": "sku-005",
+      "name": "黄铜书签",
+      "category": "文具",
+      "price": 25,
+      "summary": "实心黄铜，会随时间自然氧化。",
+      "description": "激光切割实心黄铜，表面不做涂层，用久了会产生温润的旧色。附赠棉质收纳袋。",
+      "specs": { "尺寸": "12 × 3 cm", "材质": "H62 黄铜", "厚度": "0.6 mm" },
+      "images": ["images/sku-005/main.svg", "images/sku-005/detail-1.svg", "images/sku-005/detail-2.svg"],
+      "soldOut": true
+    },
+    {
+      "id": "sku-006",
+      "name": "亚麻餐巾（4 条装）",
+      "category": "家居",
+      "price": 79,
+      "summary": "预洗亚麻，越洗越软。",
+      "description": "100% 亚麻，出厂前已预洗处理，不会再明显缩水。四条同色一组。",
+      "specs": { "尺寸": "45 × 45 cm", "材质": "100% 亚麻", "数量": "4 条" },
+      "images": ["images/sku-006/main.svg", "images/sku-006/detail-1.svg", "images/sku-006/detail-2.svg", "images/sku-006/detail-3.svg"]
+    }
+  ]
+}
