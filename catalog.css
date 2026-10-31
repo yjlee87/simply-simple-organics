@@ -57,6 +57,12 @@ button, input, select { font: inherit; color: inherit; }
   padding: calc(14px + env(safe-area-inset-top)) 0 0;
 }
 .top h1 { margin: 0; font-size: 22px; letter-spacing: .02em; }
+.brand img { width: auto; height: 72px; }
+.sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
+@media (prefers-color-scheme: dark) {
+  /* logo 的棕色字在深色底上看不清，垫一块浅色底 */
+  .brand img { background: #f7f4ef; border-radius: 10px; padding: 4px 8px; box-sizing: content-box; height: 56px; }
+}
 .tagline { margin: 2px 0 12px; color: var(--ink-2); font-size: 13px; }
 .tools { display: flex; gap: 8px; }
 .tools input, .tools select {
